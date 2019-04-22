@@ -1,0 +1,11 @@
+version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+options: "82304f2ed7425dd8d5cb85a9b7b340b4"
+build_time: [1555560722, 386365000]
+inputs:
+  "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/Perfect-Crypto/Sources/PerfectCrypto/Algorithms.swift": [1555560692, 865188580]
+  "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/Perfect-Crypto/Sources/PerfectCrypto/ByteIO.swift": [1555560692, 865444526]
+  "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/Perfect-Crypto/Sources/PerfectCrypto/Extensions.swift": [1555560692, 865709257]
+  "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/Perfect-Crypto/Sources/PerfectCrypto/JWT.swift": [1555560692, 865894290]
+  "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/Perfect-Crypto/Sources/PerfectCrypto/Keys.swift": [1555560692, 866037557]
+  "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/Perfect-Crypto/Sources/PerfectCrypto/OpenSSLInternal.swift": [1555560692, 866437740]
+  "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/Perfect-Crypto/Sources/PerfectCrypto/PerfectCrypto.swift": [1555560692, 866701503]

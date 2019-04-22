@@ -1,0 +1,188 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "settingsHeaderTableSize"
+- "settingsEnablePush"
+- "settingsMaxConcurrentStreams"
+- "settingsInitialWindowSize"
+- "settingsMaxFrameSize"
+- "settingsMaxHeaderListSize"
+- "http2ConnectionPreface"
+- "http2Debug"
+- "HTTP2StreamState"
+- "HTTP2Error"
+provides-nominal:
+- "17PerfectHTTPServer16HTTP2StreamStateO"
+- "17PerfectHTTPServer10HTTP2ErrorO"
+provides-member:
+- ["17PerfectHTTPServer16HTTP2StreamStateO", ""]
+- ["17PerfectHTTPServer10HTTP2ErrorO", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "=="
+- "HTTP2Error"
+- "HTTP2StreamState"
+- "UInt16"
+- "UInt32"
+- "http2ConnectionPreface"
+- "http2Debug"
+- "settingsEnablePush"
+- "settingsHeaderTableSize"
+- "settingsInitialWindowSize"
+- "settingsMaxConcurrentStreams"
+- "settingsMaxFrameSize"
+- "settingsMaxHeaderListSize"
+- !private "~="
+depends-member:
+- ["SQ", "=="]
+- ["SQ", "RawValue"]
+- ["SQ", ""]
+- ["SQ", "_Default_RawValue"]
+- ["SQ", "_rawHashValue"]
+- ["SQ", "hash"]
+- ["SQ", "hashValue"]
+- ["SQ", "init"]
+- ["SQ", "rawValue"]
+- ["17PerfectHTTPServer10HTTP2ErrorO", "=="]
+- ["17PerfectHTTPServer10HTTP2ErrorO", "RawValue"]
+- ["17PerfectHTTPServer10HTTP2ErrorO", "_Default_RawValue"]
+- ["17PerfectHTTPServer10HTTP2ErrorO", "_rawHashValue"]
+- ["17PerfectHTTPServer10HTTP2ErrorO", "cancel"]
+- ["17PerfectHTTPServer10HTTP2ErrorO", "compressionError"]
+- ["17PerfectHTTPServer10HTTP2ErrorO", "connectError"]
+- ["17PerfectHTTPServer10HTTP2ErrorO", "deinit"]
+- ["17PerfectHTTPServer10HTTP2ErrorO", "enhanceYourCalm"]
+- ["17PerfectHTTPServer10HTTP2ErrorO", "flowControlError"]
+- ["17PerfectHTTPServer10HTTP2ErrorO", "frameSizeError"]
+- ["17PerfectHTTPServer10HTTP2ErrorO", "hash"]
+- ["17PerfectHTTPServer10HTTP2ErrorO", "hashValue"]
+- ["17PerfectHTTPServer10HTTP2ErrorO", "http11Required"]
+- ["17PerfectHTTPServer10HTTP2ErrorO", "inadequateSecurity"]
+- ["17PerfectHTTPServer10HTTP2ErrorO", "init"]
+- ["17PerfectHTTPServer10HTTP2ErrorO", "internalError"]
+- ["17PerfectHTTPServer10HTTP2ErrorO", "noError"]
+- ["17PerfectHTTPServer10HTTP2ErrorO", "protocolError"]
+- ["17PerfectHTTPServer10HTTP2ErrorO", "rawValue"]
+- ["17PerfectHTTPServer10HTTP2ErrorO", "refusedStream"]
+- ["17PerfectHTTPServer10HTTP2ErrorO", "settingsTimeout"]
+- ["17PerfectHTTPServer10HTTP2ErrorO", "streamClosed"]
+- ["17PerfectHTTPServer16HTTP2StreamStateO", "=="]
+- ["17PerfectHTTPServer16HTTP2StreamStateO", "__derived_enum_equals"]
+- ["17PerfectHTTPServer16HTTP2StreamStateO", "_rawHashValue"]
+- ["17PerfectHTTPServer16HTTP2StreamStateO", "closed"]
+- ["17PerfectHTTPServer16HTTP2StreamStateO", "deinit"]
+- ["17PerfectHTTPServer16HTTP2StreamStateO", "halfClosed"]
+- ["17PerfectHTTPServer16HTTP2StreamStateO", "hash"]
+- ["17PerfectHTTPServer16HTTP2StreamStateO", "hashValue"]
+- ["17PerfectHTTPServer16HTTP2StreamStateO", "idle"]
+- ["17PerfectHTTPServer16HTTP2StreamStateO", "open"]
+- ["17PerfectHTTPServer16HTTP2StreamStateO", "reserved"]
+- ["SH", "=="]
+- ["SH", "RawValue"]
+- ["SH", ""]
+- ["SH", "_Default_RawValue"]
+- ["SH", "_rawHashValue"]
+- ["SH", "hash"]
+- ["SH", "hashValue"]
+- ["SH", "init"]
+- ["SH", "rawValue"]
+- !private ["s6HasherV", "combine"]
+- ["SY", "=="]
+- ["SY", "RawValue"]
+- ["SY", ""]
+- ["SY", "_Default_RawValue"]
+- ["SY", "_rawHashValue"]
+- ["SY", "hash"]
+- ["SY", "hashValue"]
+- ["SY", "init"]
+- ["SY", "rawValue"]
+depends-nominal:
+- "SQ"
+- "17PerfectHTTPServer10HTTP2ErrorO"
+- "17PerfectHTTPServer16HTTP2StreamStateO"
+- "SH"
+- !private "s6HasherV"
+- "SY"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/XPC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/x86_64-apple-macosx/debug/PerfectHTTP.swiftmodule"
+- "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/x86_64-apple-macosx/debug/PerfectLib.swiftmodule"
+- "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/x86_64-apple-macosx/debug/PerfectThread.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreFoundation.swiftmodule"
+- "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/x86_64-apple-macosx/debug/PerfectCrypto.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/os.swiftmodule"
+- "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/x86_64-apple-macosx/debug/PerfectNet.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/Perfect-COpenSSL/COpenSSL/include/../asn1.h"
+- "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/Perfect-COpenSSL/COpenSSL/include/../tls1.h"
+- "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/Perfect-COpenSSL/COpenSSL/include/../dtls1.h"
+- "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/Perfect-COpenSSL/COpenSSL/include/../ssl2.h"
+- "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/Perfect-COpenSSL/COpenSSL/include/../pem2.h"
+- "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/Perfect-COpenSSL/COpenSSL/include/../e_os2.h"
+- "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/Perfect-COpenSSL/COpenSSL/include/../ssl23.h"
+- "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/Perfect-COpenSSL/COpenSSL/include/../ssl3.h"
+- "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/Perfect-COpenSSL/COpenSSL/include/../x509v3.h"
+- "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/Perfect-COpenSSL/COpenSSL/include/../md5.h"
+- "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/Perfect-COpenSSL/COpenSSL/include/../pkcs7.h"
+- "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/Perfect-COpenSSL/COpenSSL/include/../x509.h"
+- "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/Perfect-COpenSSL/COpenSSL/include/../sha.h"
+- "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/Perfect-COpenSSL/COpenSSL/include/../dsa.h"
+- "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/Perfect-COpenSSL/COpenSSL/include/../ecdsa.h"
+- "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/Perfect-COpenSSL/COpenSSL/include/../rsa.h"
+- "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/Perfect-CZlib-src/PerfectCZlib/include/../zlib.h"
+- "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/Perfect-CZlib-src/PerfectCZlib/include/czlib.h"
+- "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/Perfect-COpenSSL/COpenSSL/include/../obj_mac.h"
+- "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/Perfect-COpenSSL/COpenSSL/include/../hmac.h"
+- "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/Perfect-COpenSSL/COpenSSL/include/../ec.h"
+- "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/Perfect-COpenSSL/COpenSSL/include/../rand.h"
+- "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/Perfect-COpenSSL/COpenSSL/include/../pqueue.h"
+- "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/Perfect-COpenSSL/COpenSSL/include/../conf.h"
+- "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/Perfect-COpenSSL/COpenSSL/include/../opensslconf.h"
+- "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/Perfect-CZlib-src/PerfectCZlib/include/../zconf.h"
+- "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/Perfect-COpenSSL/COpenSSL/include/../dh.h"
+- "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/Perfect-COpenSSL/COpenSSL/include/../ecdh.h"
+- "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/Perfect-COpenSSL/COpenSSL/include/../lhash.h"
+- "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/Perfect-COpenSSL/COpenSSL/include/../stack.h"
+- "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/Perfect-COpenSSL/COpenSSL/include/../safestack.h"
+- "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/Perfect-CZlib-src/PerfectCZlib/include/../zutil.h"
+- "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/Perfect-COpenSSL/COpenSSL/include/../ssl.h"
+- "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/Perfect-COpenSSL/COpenSSL/include/../kssl.h"
+- "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/Perfect-COpenSSL/COpenSSL/include/openssl.h"
+- "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/Perfect-COpenSSL/COpenSSL/include/../pem.h"
+- "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/Perfect-COpenSSL/COpenSSL/include/../bn.h"
+- "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/Perfect-COpenSSL/COpenSSL/include/../bio.h"
+- "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/Perfect-COpenSSL/COpenSSL/include/../crypto.h"
+- "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/Perfect-COpenSSL/COpenSSL/include/../comp.h"
+- "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/Perfect-COpenSSL/COpenSSL/include/../srtp.h"
+- "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/Perfect-COpenSSL/COpenSSL/include/../evp.h"
+- "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/Perfect-COpenSSL/COpenSSL/include/../ossl_typ.h"
+- "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/Perfect-COpenSSL/COpenSSL/include/../buffer.h"
+- "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/Perfect-HTTPServer/Sources/PerfectCHTTPParser/include/http_parser.h"
+- "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/Perfect-COpenSSL/COpenSSL/include/../err.h"
+- "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/Perfect-CZlib-src/PerfectCZlib/include/../inftrees.h"
+- "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/Perfect-COpenSSL/COpenSSL/include/../symhacks.h"
+- "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/Perfect-COpenSSL/COpenSSL/include/../cms.h"
+- "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/Perfect-COpenSSL/COpenSSL/include/../objects.h"
+- "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/Perfect-COpenSSL/COpenSSL/include/../opensslv.h"
+- "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/Perfect-COpenSSL/COpenSSL/include/../x509_vfy.h"
+- "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/Perfect-COpenSSL/COpenSSL/include/module.modulemap"
+- "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/Perfect-CZlib-src/PerfectCZlib/include/module.modulemap"
+- "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/Perfect-HTTPServer/Sources/PerfectCHTTPParser/include/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/xpc/XPC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/os.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "9b277050f15b9faa1cd67b7442526aef"

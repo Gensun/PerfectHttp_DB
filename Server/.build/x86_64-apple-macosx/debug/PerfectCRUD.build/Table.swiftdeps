@@ -1,0 +1,526 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "Table"
+provides-nominal:
+- "11PerfectCRUD5TableV"
+provides-member:
+- ["11PerfectCRUD5TableV", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "!"
+- !private "!="
+- !private "+"
+- !private "+="
+- !private "=="
+- !private ">"
+- "AssignmentPrecedence"
+- !private "CRUDLogging"
+- !private "CRUDSQLGenError"
+- "Codable"
+- "DatabaseConfigurationProtocol"
+- "DatabaseProtocol"
+- "Deleteable"
+- !private "Expression"
+- "Joinable"
+- "Limitable"
+- "Orderable"
+- "SQLGenState"
+- "Selectable"
+- !private "Set"
+- "Table"
+- "TableProtocol"
+- !private "TernaryPrecedence"
+- "Updatable"
+- "Whereable"
+- !private "joinWord"
+- !private "zip"
+depends-member:
+- !private ["Sa", "append"]
+- !private ["Sa", "first"]
+- !private ["Sa", "isEmpty"]
+- !private ["Sa", "joined"]
+- !private ["Sa", "map"]
+- !private ["SK", "append"]
+- !private ["SK", "first"]
+- !private ["SK", "isEmpty"]
+- !private ["SK", "joined"]
+- !private ["SK", "map"]
+- !private ["11PerfectCRUD19CRUDBindingsEncoderC", "completedBindings"]
+- !private ["11PerfectCRUD14CRUDExpressionO", "keyPath"]
+- !private ["11PerfectCRUD14CRUDExpressionO", "referencedTypes"]
+- !private ["11PerfectCRUD14CRUDExpressionO", "sqlSnippet"]
+- !private ["11PerfectCRUD16CRUDLogEventTypeO", "query"]
+- !private ["11PerfectCRUD11CRUDLoggingV", "log"]
+- !private ["11PerfectCRUD15CRUDSQLGenErrorV", "deinit"]
+- !private ["11PerfectCRUD15CRUDSQLGenErrorV", "init"]
+- !private ["s7CVarArgP", "append"]
+- !private ["s7CVarArgP", "first"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "isEmpty"]
+- !private ["s7CVarArgP", "joined"]
+- !private ["s7CVarArgP", "map"]
+- !private ["Sl", "append"]
+- !private ["Sl", "first"]
+- !private ["Sl", "init"]
+- !private ["Sl", "isEmpty"]
+- !private ["Sl", "joined"]
+- !private ["Sl", "map"]
+- ["11PerfectCRUD11SQLGenStateV7CommandO", "count"]
+- !private ["11PerfectCRUD11SQLGenStateV7CommandO", "deinit"]
+- ["11PerfectCRUD11SQLGenStateV7CommandO", "delete"]
+- ["11PerfectCRUD11SQLGenStateV7CommandO", "insert"]
+- ["11PerfectCRUD11SQLGenStateV7CommandO", "select"]
+- ["11PerfectCRUD11SQLGenStateV7CommandO", "unknown"]
+- ["11PerfectCRUD11SQLGenStateV7CommandO", "update"]
+- !private ["10Foundation15ContiguousBytesP", "append"]
+- !private ["10Foundation15ContiguousBytesP", "first"]
+- !private ["10Foundation15ContiguousBytesP", "isEmpty"]
+- !private ["10Foundation15ContiguousBytesP", "joined"]
+- !private ["10Foundation15ContiguousBytesP", "map"]
+- !private ["s28CustomDebugStringConvertibleP", "append"]
+- !private ["s28CustomDebugStringConvertibleP", "first"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "isEmpty"]
+- !private ["s28CustomDebugStringConvertibleP", "joined"]
+- !private ["s28CustomDebugStringConvertibleP", "map"]
+- !private ["s17CustomReflectableP", "append"]
+- !private ["s17CustomReflectableP", "first"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "isEmpty"]
+- !private ["s17CustomReflectableP", "joined"]
+- !private ["s17CustomReflectableP", "map"]
+- !private ["s23CustomStringConvertibleP", "append"]
+- !private ["s23CustomStringConvertibleP", "appendInterpolation"]
+- !private ["s23CustomStringConvertibleP", "appendLiteral"]
+- !private ["s23CustomStringConvertibleP", "first"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "isEmpty"]
+- !private ["s23CustomStringConvertibleP", "joined"]
+- !private ["s23CustomStringConvertibleP", "map"]
+- !private ["s23CustomStringConvertibleP", "query"]
+- !private ["10Foundation12DataProtocolP", "append"]
+- !private ["10Foundation12DataProtocolP", "first"]
+- !private ["10Foundation12DataProtocolP", "isEmpty"]
+- !private ["10Foundation12DataProtocolP", "joined"]
+- !private ["10Foundation12DataProtocolP", "map"]
+- !private ["11PerfectCRUD16DatabaseProtocolP", "configuration"]
+- !private ["Se", "CRUDTableName"]
+- !private ["Se", "append"]
+- !private ["Se", "first"]
+- !private ["Se", "init"]
+- !private ["Se", "isEmpty"]
+- !private ["Se", "joined"]
+- !private ["Se", "map"]
+- !private ["s26DefaultStringInterpolationV", "appendInterpolation"]
+- !private ["s26DefaultStringInterpolationV", "appendLiteral"]
+- !private ["11PerfectCRUD10DeleteableP", "CRUDLogging"]
+- !private ["11PerfectCRUD10DeleteableP", "CRUDSQLGenError"]
+- !private ["11PerfectCRUD10DeleteableP", "Expression"]
+- ["11PerfectCRUD10DeleteableP", "Form"]
+- ["11PerfectCRUD10DeleteableP", "OverAllForm"]
+- !private ["11PerfectCRUD10DeleteableP", "Set"]
+- ["11PerfectCRUD10DeleteableP", ""]
+- ["11PerfectCRUD10DeleteableP", "count"]
+- !private ["11PerfectCRUD10DeleteableP", "database"]
+- ["11PerfectCRUD10DeleteableP", "databaseConfiguration"]
+- ["11PerfectCRUD10DeleteableP", "delete"]
+- ["11PerfectCRUD10DeleteableP", "join"]
+- !private ["11PerfectCRUD10DeleteableP", "joinWord"]
+- ["11PerfectCRUD10DeleteableP", "limit"]
+- ["11PerfectCRUD10DeleteableP", "order"]
+- ["11PerfectCRUD10DeleteableP", "select"]
+- ["11PerfectCRUD10DeleteableP", "setSQL"]
+- ["11PerfectCRUD10DeleteableP", "setState"]
+- ["11PerfectCRUD10DeleteableP", "update"]
+- ["11PerfectCRUD10DeleteableP", "where"]
+- !private ["11PerfectCRUD10DeleteableP", "zip"]
+- !private ["SE", "CRUDTableName"]
+- !private ["SE", "append"]
+- !private ["SE", "first"]
+- !private ["SE", "init"]
+- !private ["SE", "isEmpty"]
+- !private ["SE", "joined"]
+- !private ["SE", "map"]
+- !private ["s7EncoderP", "completedBindings"]
+- !private ["SQ", "append"]
+- ["SQ", "count"]
+- ["SQ", "delete"]
+- !private ["SQ", "first"]
+- !private ["SQ", "init"]
+- ["SQ", "insert"]
+- !private ["SQ", "isEmpty"]
+- !private ["SQ", "joined"]
+- !private ["SQ", "map"]
+- !private ["SQ", "query"]
+- ["SQ", "select"]
+- ["SQ", "unknown"]
+- ["SQ", "update"]
+- !private ["s5ErrorP", "init"]
+- !private ["s25ExpressibleByArrayLiteralP", "append"]
+- !private ["s25ExpressibleByArrayLiteralP", "first"]
+- !private ["s25ExpressibleByArrayLiteralP", "init"]
+- !private ["s25ExpressibleByArrayLiteralP", "isEmpty"]
+- !private ["s25ExpressibleByArrayLiteralP", "joined"]
+- !private ["s25ExpressibleByArrayLiteralP", "map"]
+- !private ["SH", "append"]
+- ["SH", "count"]
+- ["SH", "delete"]
+- !private ["SH", "first"]
+- !private ["SH", "init"]
+- ["SH", "insert"]
+- !private ["SH", "isEmpty"]
+- !private ["SH", "joined"]
+- !private ["SH", "map"]
+- !private ["SH", "query"]
+- ["SH", "select"]
+- ["SH", "unknown"]
+- ["SH", "update"]
+- !private ["11PerfectCRUD8JoinableP", "CRUDLogging"]
+- !private ["11PerfectCRUD8JoinableP", "CRUDSQLGenError"]
+- !private ["11PerfectCRUD8JoinableP", "Expression"]
+- ["11PerfectCRUD8JoinableP", "Form"]
+- ["11PerfectCRUD8JoinableP", "OverAllForm"]
+- !private ["11PerfectCRUD8JoinableP", "Set"]
+- ["11PerfectCRUD8JoinableP", ""]
+- ["11PerfectCRUD8JoinableP", "count"]
+- !private ["11PerfectCRUD8JoinableP", "database"]
+- ["11PerfectCRUD8JoinableP", "databaseConfiguration"]
+- ["11PerfectCRUD8JoinableP", "delete"]
+- ["11PerfectCRUD8JoinableP", "join"]
+- !private ["11PerfectCRUD8JoinableP", "joinWord"]
+- ["11PerfectCRUD8JoinableP", "limit"]
+- ["11PerfectCRUD8JoinableP", "order"]
+- ["11PerfectCRUD8JoinableP", "select"]
+- ["11PerfectCRUD8JoinableP", "setSQL"]
+- ["11PerfectCRUD8JoinableP", "setState"]
+- ["11PerfectCRUD8JoinableP", "update"]
+- ["11PerfectCRUD8JoinableP", "where"]
+- !private ["11PerfectCRUD8JoinableP", "zip"]
+- !private ["11PerfectCRUD9LimitableP", "CRUDLogging"]
+- !private ["11PerfectCRUD9LimitableP", "CRUDSQLGenError"]
+- !private ["11PerfectCRUD9LimitableP", "Expression"]
+- ["11PerfectCRUD9LimitableP", "Form"]
+- ["11PerfectCRUD9LimitableP", "OverAllForm"]
+- !private ["11PerfectCRUD9LimitableP", "Set"]
+- ["11PerfectCRUD9LimitableP", ""]
+- ["11PerfectCRUD9LimitableP", "count"]
+- !private ["11PerfectCRUD9LimitableP", "database"]
+- ["11PerfectCRUD9LimitableP", "databaseConfiguration"]
+- ["11PerfectCRUD9LimitableP", "delete"]
+- ["11PerfectCRUD9LimitableP", "join"]
+- !private ["11PerfectCRUD9LimitableP", "joinWord"]
+- ["11PerfectCRUD9LimitableP", "limit"]
+- ["11PerfectCRUD9LimitableP", "order"]
+- ["11PerfectCRUD9LimitableP", "select"]
+- ["11PerfectCRUD9LimitableP", "setSQL"]
+- ["11PerfectCRUD9LimitableP", "setState"]
+- ["11PerfectCRUD9LimitableP", "update"]
+- ["11PerfectCRUD9LimitableP", "where"]
+- !private ["11PerfectCRUD9LimitableP", "zip"]
+- !private ["SM", "append"]
+- !private ["SM", "first"]
+- !private ["SM", "isEmpty"]
+- !private ["SM", "joined"]
+- !private ["SM", "map"]
+- !private ["10Foundation19MutableDataProtocolP", "append"]
+- !private ["10Foundation19MutableDataProtocolP", "first"]
+- !private ["10Foundation19MutableDataProtocolP", "isEmpty"]
+- !private ["10Foundation19MutableDataProtocolP", "joined"]
+- !private ["10Foundation19MutableDataProtocolP", "map"]
+- !private ["11PerfectCRUD11SQLGenStateV11MyTableDataV", "myTable"]
+- !private ["11PerfectCRUD11SQLGenStateV11MyTableDataV", "remainingTables"]
+- !private ["11PerfectCRUD9OrderableP", "CRUDLogging"]
+- !private ["11PerfectCRUD9OrderableP", "CRUDSQLGenError"]
+- !private ["11PerfectCRUD9OrderableP", "Expression"]
+- ["11PerfectCRUD9OrderableP", "Form"]
+- ["11PerfectCRUD9OrderableP", "OverAllForm"]
+- !private ["11PerfectCRUD9OrderableP", "Set"]
+- ["11PerfectCRUD9OrderableP", ""]
+- ["11PerfectCRUD9OrderableP", "count"]
+- !private ["11PerfectCRUD9OrderableP", "database"]
+- ["11PerfectCRUD9OrderableP", "databaseConfiguration"]
+- ["11PerfectCRUD9OrderableP", "delete"]
+- ["11PerfectCRUD9OrderableP", "join"]
+- !private ["11PerfectCRUD9OrderableP", "joinWord"]
+- ["11PerfectCRUD9OrderableP", "limit"]
+- ["11PerfectCRUD9OrderableP", "order"]
+- ["11PerfectCRUD9OrderableP", "select"]
+- ["11PerfectCRUD9OrderableP", "setSQL"]
+- ["11PerfectCRUD9OrderableP", "setState"]
+- ["11PerfectCRUD9OrderableP", "update"]
+- ["11PerfectCRUD9OrderableP", "where"]
+- !private ["11PerfectCRUD9OrderableP", "zip"]
+- !private ["11PerfectCRUD11SQLGenStateV16PropertyJoinDataV", "equals"]
+- !private ["11PerfectCRUD11SQLGenStateV16PropertyJoinDataV", "on"]
+- !private ["11PerfectCRUD9QueryItemP", "CRUDLogging"]
+- !private ["11PerfectCRUD9QueryItemP", "CRUDSQLGenError"]
+- !private ["11PerfectCRUD9QueryItemP", "Expression"]
+- ["11PerfectCRUD9QueryItemP", "Form"]
+- ["11PerfectCRUD9QueryItemP", "OverAllForm"]
+- !private ["11PerfectCRUD9QueryItemP", "Set"]
+- ["11PerfectCRUD9QueryItemP", ""]
+- ["11PerfectCRUD9QueryItemP", "count"]
+- !private ["11PerfectCRUD9QueryItemP", "database"]
+- ["11PerfectCRUD9QueryItemP", "databaseConfiguration"]
+- ["11PerfectCRUD9QueryItemP", "delete"]
+- ["11PerfectCRUD9QueryItemP", "join"]
+- !private ["11PerfectCRUD9QueryItemP", "joinWord"]
+- ["11PerfectCRUD9QueryItemP", "limit"]
+- ["11PerfectCRUD9QueryItemP", "order"]
+- ["11PerfectCRUD9QueryItemP", "select"]
+- ["11PerfectCRUD9QueryItemP", "setSQL"]
+- ["11PerfectCRUD9QueryItemP", "setState"]
+- ["11PerfectCRUD9QueryItemP", "update"]
+- ["11PerfectCRUD9QueryItemP", "where"]
+- !private ["11PerfectCRUD9QueryItemP", "zip"]
+- !private ["Sk", "append"]
+- !private ["Sk", "first"]
+- !private ["Sk", "isEmpty"]
+- !private ["Sk", "joined"]
+- !private ["Sk", "map"]
+- !private ["Sm", "append"]
+- !private ["Sm", "first"]
+- !private ["Sm", "isEmpty"]
+- !private ["Sm", "joined"]
+- !private ["Sm", "map"]
+- !private ["11PerfectCRUD14SQLGenDelegateP", "bindings"]
+- !private ["11PerfectCRUD14SQLGenDelegateP", "quote"]
+- !private ["11PerfectCRUD11SQLGenStateV", "addTable"]
+- !private ["11PerfectCRUD11SQLGenStateV", "bindingsEncoder"]
+- !private ["11PerfectCRUD11SQLGenStateV", "columnFilters"]
+- !private ["11PerfectCRUD11SQLGenStateV", "command"]
+- !private ["11PerfectCRUD11SQLGenStateV", "consumeState"]
+- !private ["11PerfectCRUD11SQLGenStateV", "delegate"]
+- !private ["11PerfectCRUD11SQLGenStateV", "popTableData"]
+- !private ["11PerfectCRUD11SQLGenStateV", "statements"]
+- !private ["11PerfectCRUD11SQLGenStateV", "whereExpr"]
+- !private ["11PerfectCRUD10SelectableP", "CRUDLogging"]
+- !private ["11PerfectCRUD10SelectableP", "CRUDSQLGenError"]
+- !private ["11PerfectCRUD10SelectableP", "Expression"]
+- ["11PerfectCRUD10SelectableP", "Form"]
+- ["11PerfectCRUD10SelectableP", "OverAllForm"]
+- !private ["11PerfectCRUD10SelectableP", "Set"]
+- ["11PerfectCRUD10SelectableP", ""]
+- ["11PerfectCRUD10SelectableP", "count"]
+- !private ["11PerfectCRUD10SelectableP", "database"]
+- ["11PerfectCRUD10SelectableP", "databaseConfiguration"]
+- ["11PerfectCRUD10SelectableP", "delete"]
+- ["11PerfectCRUD10SelectableP", "join"]
+- !private ["11PerfectCRUD10SelectableP", "joinWord"]
+- ["11PerfectCRUD10SelectableP", "limit"]
+- ["11PerfectCRUD10SelectableP", "order"]
+- ["11PerfectCRUD10SelectableP", "select"]
+- ["11PerfectCRUD10SelectableP", "setSQL"]
+- ["11PerfectCRUD10SelectableP", "setState"]
+- ["11PerfectCRUD10SelectableP", "update"]
+- ["11PerfectCRUD10SelectableP", "where"]
+- !private ["11PerfectCRUD10SelectableP", "zip"]
+- !private ["ST", "append"]
+- !private ["ST", "first"]
+- !private ["ST", "init"]
+- !private ["ST", "isEmpty"]
+- !private ["ST", "joined"]
+- !private ["ST", "map"]
+- !private ["Sh", "init"]
+- !private ["s10SetAlgebraP", "init"]
+- !private ["11PerfectCRUD11SQLGenStateV9StatementV", "init"]
+- !private ["11PerfectCRUD11SQLGenStateV9StatementV", "init"]
+- !private ["s27StringInterpolationProtocolP", "appendInterpolation"]
+- !private ["s27StringInterpolationProtocolP", "appendLiteral"]
+- !private ["11PerfectCRUD5TableV", "CRUDLogging"]
+- !private ["11PerfectCRUD5TableV", "CRUDSQLGenError"]
+- ["11PerfectCRUD5TableV", "DatabaseConfigurationProtocol"]
+- ["11PerfectCRUD5TableV", "DatabaseType"]
+- !private ["11PerfectCRUD5TableV", "Expression"]
+- ["11PerfectCRUD5TableV", "Form"]
+- ["11PerfectCRUD5TableV", "OverAllForm"]
+- ["11PerfectCRUD5TableV", "SQLGenState"]
+- !private ["11PerfectCRUD5TableV", "Set"]
+- ["11PerfectCRUD5TableV", "count"]
+- ["11PerfectCRUD5TableV", "database"]
+- ["11PerfectCRUD5TableV", "databaseConfiguration"]
+- ["11PerfectCRUD5TableV", "deinit"]
+- ["11PerfectCRUD5TableV", "delete"]
+- ["11PerfectCRUD5TableV", "init"]
+- ["11PerfectCRUD5TableV", "join"]
+- !private ["11PerfectCRUD5TableV", "joinWord"]
+- ["11PerfectCRUD5TableV", "limit"]
+- ["11PerfectCRUD5TableV", "order"]
+- ["11PerfectCRUD5TableV", "select"]
+- ["11PerfectCRUD5TableV", "setSQL"]
+- ["11PerfectCRUD5TableV", "setState"]
+- ["11PerfectCRUD5TableV", "update"]
+- ["11PerfectCRUD5TableV", "where"]
+- !private ["11PerfectCRUD5TableV", "zip"]
+- !private ["11PerfectCRUD11SQLGenStateV9TableDataV", "alias"]
+- !private ["11PerfectCRUD11SQLGenStateV9TableDataV", "joinData"]
+- !private ["11PerfectCRUD11SQLGenStateV9TableDataV", "type"]
+- !private ["11PerfectCRUD13TableProtocolP", "CRUDLogging"]
+- !private ["11PerfectCRUD13TableProtocolP", "CRUDSQLGenError"]
+- !private ["11PerfectCRUD13TableProtocolP", "Expression"]
+- ["11PerfectCRUD13TableProtocolP", "Form"]
+- ["11PerfectCRUD13TableProtocolP", "OverAllForm"]
+- !private ["11PerfectCRUD13TableProtocolP", "Set"]
+- ["11PerfectCRUD13TableProtocolP", ""]
+- ["11PerfectCRUD13TableProtocolP", "count"]
+- !private ["11PerfectCRUD13TableProtocolP", "database"]
+- ["11PerfectCRUD13TableProtocolP", "databaseConfiguration"]
+- ["11PerfectCRUD13TableProtocolP", "delete"]
+- ["11PerfectCRUD13TableProtocolP", "join"]
+- !private ["11PerfectCRUD13TableProtocolP", "joinWord"]
+- ["11PerfectCRUD13TableProtocolP", "limit"]
+- ["11PerfectCRUD13TableProtocolP", "order"]
+- ["11PerfectCRUD13TableProtocolP", "select"]
+- ["11PerfectCRUD13TableProtocolP", "setSQL"]
+- ["11PerfectCRUD13TableProtocolP", "setState"]
+- ["11PerfectCRUD13TableProtocolP", "update"]
+- ["11PerfectCRUD13TableProtocolP", "where"]
+- !private ["11PerfectCRUD13TableProtocolP", "zip"]
+- !private ["s16TextOutputStreamP", "appendInterpolation"]
+- !private ["s16TextOutputStreamP", "appendLiteral"]
+- !private ["11PerfectCRUD9UpdatableP", "CRUDLogging"]
+- !private ["11PerfectCRUD9UpdatableP", "CRUDSQLGenError"]
+- !private ["11PerfectCRUD9UpdatableP", "Expression"]
+- ["11PerfectCRUD9UpdatableP", "Form"]
+- ["11PerfectCRUD9UpdatableP", "OverAllForm"]
+- !private ["11PerfectCRUD9UpdatableP", "Set"]
+- ["11PerfectCRUD9UpdatableP", ""]
+- ["11PerfectCRUD9UpdatableP", "count"]
+- !private ["11PerfectCRUD9UpdatableP", "database"]
+- ["11PerfectCRUD9UpdatableP", "databaseConfiguration"]
+- ["11PerfectCRUD9UpdatableP", "delete"]
+- ["11PerfectCRUD9UpdatableP", "join"]
+- !private ["11PerfectCRUD9UpdatableP", "joinWord"]
+- ["11PerfectCRUD9UpdatableP", "limit"]
+- ["11PerfectCRUD9UpdatableP", "order"]
+- ["11PerfectCRUD9UpdatableP", "select"]
+- ["11PerfectCRUD9UpdatableP", "setSQL"]
+- ["11PerfectCRUD9UpdatableP", "setState"]
+- ["11PerfectCRUD9UpdatableP", "update"]
+- ["11PerfectCRUD9UpdatableP", "where"]
+- !private ["11PerfectCRUD9UpdatableP", "zip"]
+- !private ["11PerfectCRUD9WhereableP", "CRUDLogging"]
+- !private ["11PerfectCRUD9WhereableP", "CRUDSQLGenError"]
+- !private ["11PerfectCRUD9WhereableP", "Expression"]
+- ["11PerfectCRUD9WhereableP", "Form"]
+- ["11PerfectCRUD9WhereableP", "OverAllForm"]
+- !private ["11PerfectCRUD9WhereableP", "Set"]
+- ["11PerfectCRUD9WhereableP", ""]
+- ["11PerfectCRUD9WhereableP", "count"]
+- !private ["11PerfectCRUD9WhereableP", "database"]
+- ["11PerfectCRUD9WhereableP", "databaseConfiguration"]
+- ["11PerfectCRUD9WhereableP", "delete"]
+- ["11PerfectCRUD9WhereableP", "join"]
+- !private ["11PerfectCRUD9WhereableP", "joinWord"]
+- ["11PerfectCRUD9WhereableP", "limit"]
+- ["11PerfectCRUD9WhereableP", "order"]
+- ["11PerfectCRUD9WhereableP", "select"]
+- ["11PerfectCRUD9WhereableP", "setSQL"]
+- ["11PerfectCRUD9WhereableP", "setState"]
+- ["11PerfectCRUD9WhereableP", "update"]
+- ["11PerfectCRUD9WhereableP", "where"]
+- !private ["11PerfectCRUD9WhereableP", "zip"]
+- !private ["s12Zip2SequenceV", "map"]
+- !private ["s14_ArrayProtocolP", "append"]
+- !private ["s14_ArrayProtocolP", "first"]
+- !private ["s14_ArrayProtocolP", "isEmpty"]
+- !private ["s14_ArrayProtocolP", "joined"]
+- !private ["s14_ArrayProtocolP", "map"]
+- !private ["s24_DestructorSafeContainerP", "append"]
+- !private ["s24_DestructorSafeContainerP", "first"]
+- !private ["s24_DestructorSafeContainerP", "isEmpty"]
+- !private ["s24_DestructorSafeContainerP", "joined"]
+- !private ["s24_DestructorSafeContainerP", "map"]
+- !private ["s19_HasContiguousBytesP", "append"]
+- !private ["s19_HasContiguousBytesP", "first"]
+- !private ["s19_HasContiguousBytesP", "isEmpty"]
+- !private ["s19_HasContiguousBytesP", "joined"]
+- !private ["s19_HasContiguousBytesP", "map"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "append"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "first"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "isEmpty"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "joined"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "map"]
+- !private ["s21_ObjectiveCBridgeableP", "append"]
+- !private ["s21_ObjectiveCBridgeableP", "first"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "isEmpty"]
+- !private ["s21_ObjectiveCBridgeableP", "joined"]
+- !private ["s21_ObjectiveCBridgeableP", "map"]
+depends-nominal:
+- !private "Sa"
+- !private "SK"
+- !private "11PerfectCRUD19CRUDBindingsEncoderC"
+- !private "11PerfectCRUD14CRUDExpressionO"
+- !private "11PerfectCRUD16CRUDLogEventTypeO"
+- !private "11PerfectCRUD11CRUDLoggingV"
+- !private "11PerfectCRUD15CRUDSQLGenErrorV"
+- !private "s7CVarArgP"
+- !private "Sl"
+- "11PerfectCRUD11SQLGenStateV7CommandO"
+- !private "10Foundation15ContiguousBytesP"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- !private "s23CustomStringConvertibleP"
+- !private "10Foundation12DataProtocolP"
+- !private "11PerfectCRUD16DatabaseProtocolP"
+- !private "Se"
+- !private "s26DefaultStringInterpolationV"
+- "11PerfectCRUD10DeleteableP"
+- !private "SE"
+- !private "s7EncoderP"
+- "SQ"
+- !private "s5ErrorP"
+- !private "s25ExpressibleByArrayLiteralP"
+- "SH"
+- "11PerfectCRUD8JoinableP"
+- "11PerfectCRUD9LimitableP"
+- !private "SM"
+- !private "10Foundation19MutableDataProtocolP"
+- !private "11PerfectCRUD11SQLGenStateV11MyTableDataV"
+- "11PerfectCRUD9OrderableP"
+- !private "11PerfectCRUD11SQLGenStateV16PropertyJoinDataV"
+- "11PerfectCRUD9QueryItemP"
+- !private "Sk"
+- !private "Sm"
+- !private "11PerfectCRUD14SQLGenDelegateP"
+- !private "11PerfectCRUD11SQLGenStateV"
+- "11PerfectCRUD10SelectableP"
+- !private "ST"
+- !private "Sh"
+- !private "s10SetAlgebraP"
+- !private "11PerfectCRUD11SQLGenStateV9StatementV"
+- !private "s27StringInterpolationProtocolP"
+- "11PerfectCRUD5TableV"
+- !private "11PerfectCRUD11SQLGenStateV9TableDataV"
+- "11PerfectCRUD13TableProtocolP"
+- !private "s16TextOutputStreamP"
+- "11PerfectCRUD9UpdatableP"
+- "11PerfectCRUD9WhereableP"
+- !private "s12Zip2SequenceV"
+- !private "s14_ArrayProtocolP"
+- !private "s24_DestructorSafeContainerP"
+- !private "s19_HasContiguousBytesP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- !private "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "dff2cc012c22b5c326140c57dd30cc42"

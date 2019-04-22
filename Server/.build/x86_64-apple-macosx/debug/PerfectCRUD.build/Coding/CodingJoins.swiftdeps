@@ -1,0 +1,274 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "SQLTopRowReader"
+provides-nominal:
+- "11PerfectCRUD15SQLTopRowReaderC"
+provides-member:
+- ["11PerfectCRUD15SQLTopRowReaderC", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "!="
+- !private "=="
+- "AnyKeyPath"
+- "AssignmentPrecedence"
+- "Bool"
+- !private "BooleanLiteralType"
+- !private "CRUDSQLExeError"
+- "CastingPrecedence"
+- "CodingKey"
+- !private "Data"
+- !private "Date"
+- "Decodable"
+- "Decoder"
+- "Double"
+- "Equatable"
+- "Float"
+- "Int"
+- "Int16"
+- "Int32"
+- "Int64"
+- "Int8"
+- "KeyedDecodingContainer"
+- "KeyedDecodingContainerProtocol"
+- !private "PivotContainer"
+- "SQLTopExeDelegate"
+- "SQLTopRowReader"
+- "String"
+- "UInt"
+- "UInt16"
+- "UInt32"
+- "UInt64"
+- "UInt8"
+- !private "UUID"
+- !private "UnicodeScalarType"
+- "UnkeyedDecodingContainer"
+- !private "type"
+- !private "||"
+depends-member:
+- !private ["s10AnyKeyPathC", "valueType"]
+- !private ["Sa", "compactMap"]
+- !private ["Sa", "first"]
+- !private ["SK", "compactMap"]
+- !private ["SK", "first"]
+- !private ["11PerfectCRUD15CRUDSQLExeErrorV", "deinit"]
+- !private ["11PerfectCRUD15CRUDSQLExeErrorV", "init"]
+- !private ["s7CVarArgP", "compactMap"]
+- !private ["s7CVarArgP", "first"]
+- !private ["s7CVarArgP", "index"]
+- !private ["s7CVarArgP", "subscript"]
+- !private ["s9CodingKeyP", "init"]
+- !private ["s9CodingKeyP", "stringValue"]
+- !private ["Sl", "compactMap"]
+- !private ["Sl", "first"]
+- !private ["Sl", "index"]
+- !private ["Sl", "subscript"]
+- !private ["10Foundation15ContiguousBytesP", "compactMap"]
+- !private ["10Foundation15ContiguousBytesP", "first"]
+- !private ["s28CustomDebugStringConvertibleP", "compactMap"]
+- !private ["s28CustomDebugStringConvertibleP", "first"]
+- !private ["s28CustomDebugStringConvertibleP", "index"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "stringValue"]
+- !private ["s28CustomDebugStringConvertibleP", "subscript"]
+- !private ["s17CustomReflectableP", "compactMap"]
+- !private ["s17CustomReflectableP", "first"]
+- !private ["s17CustomReflectableP", "index"]
+- !private ["s17CustomReflectableP", "subscript"]
+- !private ["s23CustomStringConvertibleP", "appendInterpolation"]
+- !private ["s23CustomStringConvertibleP", "appendLiteral"]
+- !private ["s23CustomStringConvertibleP", "compactMap"]
+- !private ["s23CustomStringConvertibleP", "first"]
+- !private ["s23CustomStringConvertibleP", "index"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "stringValue"]
+- !private ["s23CustomStringConvertibleP", "subscript"]
+- !private ["10Foundation12DataProtocolP", "compactMap"]
+- !private ["10Foundation12DataProtocolP", "first"]
+- !private ["Se", "compactMap"]
+- !private ["Se", "first"]
+- !private ["Se", "index"]
+- !private ["Se", "subscript"]
+- !private ["s26DefaultStringInterpolationV", "appendInterpolation"]
+- !private ["s26DefaultStringInterpolationV", "appendLiteral"]
+- !private ["SD", "index"]
+- !private ["SD", "subscript"]
+- !private ["SE", "compactMap"]
+- !private ["SE", "first"]
+- !private ["SE", "index"]
+- !private ["SE", "subscript"]
+- !private ["SQ", "compactMap"]
+- !private ["SQ", "first"]
+- !private ["SQ", "index"]
+- !private ["SQ", "subscript"]
+- !private ["SQ", "valueType"]
+- !private ["s5ErrorP", "init"]
+- !private ["s25ExpressibleByArrayLiteralP", "compactMap"]
+- !private ["s25ExpressibleByArrayLiteralP", "first"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "index"]
+- !private ["s30ExpressibleByDictionaryLiteralP", "subscript"]
+- !private ["SH", "compactMap"]
+- !private ["SH", "first"]
+- !private ["SH", "index"]
+- !private ["SH", "subscript"]
+- !private ["SH", "valueType"]
+- !private ["s22KeyedDecodingContainerV", "contains"]
+- !private ["s22KeyedDecodingContainerV", "decode"]
+- !private ["s22KeyedDecodingContainerV", "decodeNil"]
+- !private ["s22KeyedDecodingContainerV", "nestedContainer"]
+- !private ["s22KeyedDecodingContainerV", "nestedUnkeyedContainer"]
+- !private ["s22KeyedDecodingContainerV", "superDecoder"]
+- !private ["s30KeyedDecodingContainerProtocolP", "CRUDSQLExeError"]
+- ["s30KeyedDecodingContainerProtocolP", "Key"]
+- ["s30KeyedDecodingContainerProtocolP", ""]
+- ["s30KeyedDecodingContainerProtocolP", "allKeys"]
+- ["s30KeyedDecodingContainerProtocolP", "codingPath"]
+- ["s30KeyedDecodingContainerProtocolP", "contains"]
+- ["s30KeyedDecodingContainerProtocolP", "decode"]
+- ["s30KeyedDecodingContainerProtocolP", "decodeIfPresent"]
+- ["s30KeyedDecodingContainerProtocolP", "decodeNil"]
+- !private ["s30KeyedDecodingContainerProtocolP", "exeDelegate"]
+- !private ["s30KeyedDecodingContainerProtocolP", "filteredValues"]
+- ["s30KeyedDecodingContainerProtocolP", "nestedContainer"]
+- ["s30KeyedDecodingContainerProtocolP", "nestedUnkeyedContainer"]
+- !private ["s30KeyedDecodingContainerProtocolP", "subRowReader"]
+- ["s30KeyedDecodingContainerProtocolP", "superDecoder"]
+- !private ["s30KeyedDecodingContainerProtocolP", "type"]
+- !private ["SM", "compactMap"]
+- !private ["SM", "first"]
+- !private ["10Foundation19MutableDataProtocolP", "compactMap"]
+- !private ["10Foundation19MutableDataProtocolP", "first"]
+- !private ["11PerfectCRUD14PivotContainerV", "instance"]
+- !private ["11PerfectCRUD14PivotContainerV", "keys"]
+- !private ["Sk", "compactMap"]
+- !private ["Sk", "first"]
+- !private ["Sm", "compactMap"]
+- !private ["Sm", "first"]
+- !private ["11PerfectCRUD14SQLExeDelegateP", "subObjects"]
+- !private ["11PerfectCRUD17SQLTopExeDelegateV", "subObjects"]
+- ["11PerfectCRUD15SQLTopRowReaderC", "AnyKeyPath"]
+- ["11PerfectCRUD15SQLTopRowReaderC", "Bool"]
+- !private ["11PerfectCRUD15SQLTopRowReaderC", "CRUDSQLExeError"]
+- ["11PerfectCRUD15SQLTopRowReaderC", "CodingKey"]
+- !private ["11PerfectCRUD15SQLTopRowReaderC", "Data"]
+- !private ["11PerfectCRUD15SQLTopRowReaderC", "Date"]
+- ["11PerfectCRUD15SQLTopRowReaderC", "Decodable"]
+- ["11PerfectCRUD15SQLTopRowReaderC", "Decoder"]
+- ["11PerfectCRUD15SQLTopRowReaderC", "Double"]
+- ["11PerfectCRUD15SQLTopRowReaderC", "Equatable"]
+- ["11PerfectCRUD15SQLTopRowReaderC", "Float"]
+- ["11PerfectCRUD15SQLTopRowReaderC", "Int"]
+- ["11PerfectCRUD15SQLTopRowReaderC", "Int16"]
+- ["11PerfectCRUD15SQLTopRowReaderC", "Int32"]
+- ["11PerfectCRUD15SQLTopRowReaderC", "Int64"]
+- ["11PerfectCRUD15SQLTopRowReaderC", "Int8"]
+- ["11PerfectCRUD15SQLTopRowReaderC", "Key"]
+- ["11PerfectCRUD15SQLTopRowReaderC", "KeyedDecodingContainer"]
+- !private ["11PerfectCRUD15SQLTopRowReaderC", "PivotContainer"]
+- ["11PerfectCRUD15SQLTopRowReaderC", "SQLTopExeDelegate"]
+- ["11PerfectCRUD15SQLTopRowReaderC", "String"]
+- ["11PerfectCRUD15SQLTopRowReaderC", "UInt"]
+- ["11PerfectCRUD15SQLTopRowReaderC", "UInt16"]
+- ["11PerfectCRUD15SQLTopRowReaderC", "UInt32"]
+- ["11PerfectCRUD15SQLTopRowReaderC", "UInt64"]
+- ["11PerfectCRUD15SQLTopRowReaderC", "UInt8"]
+- !private ["11PerfectCRUD15SQLTopRowReaderC", "UUID"]
+- ["11PerfectCRUD15SQLTopRowReaderC", "UnkeyedDecodingContainer"]
+- ["11PerfectCRUD15SQLTopRowReaderC", "allKeys"]
+- ["11PerfectCRUD15SQLTopRowReaderC", "codingPath"]
+- ["11PerfectCRUD15SQLTopRowReaderC", "contains"]
+- ["11PerfectCRUD15SQLTopRowReaderC", "decode"]
+- ["11PerfectCRUD15SQLTopRowReaderC", "decodeIfPresent"]
+- ["11PerfectCRUD15SQLTopRowReaderC", "decodeNil"]
+- ["11PerfectCRUD15SQLTopRowReaderC", "deinit"]
+- ["11PerfectCRUD15SQLTopRowReaderC", "exeDelegate"]
+- !private ["11PerfectCRUD15SQLTopRowReaderC", "filteredValues"]
+- ["11PerfectCRUD15SQLTopRowReaderC", "init"]
+- ["11PerfectCRUD15SQLTopRowReaderC", "nestedContainer"]
+- ["11PerfectCRUD15SQLTopRowReaderC", "nestedUnkeyedContainer"]
+- ["11PerfectCRUD15SQLTopRowReaderC", "subRowReader"]
+- ["11PerfectCRUD15SQLTopRowReaderC", "superDecoder"]
+- !private ["11PerfectCRUD15SQLTopRowReaderC", "type"]
+- !private ["ST", "compactMap"]
+- !private ["ST", "first"]
+- !private ["ST", "index"]
+- !private ["ST", "subscript"]
+- !private ["s27StringInterpolationProtocolP", "appendInterpolation"]
+- !private ["s27StringInterpolationProtocolP", "appendLiteral"]
+- !private ["s16TextOutputStreamP", "appendInterpolation"]
+- !private ["s16TextOutputStreamP", "appendLiteral"]
+- !private ["s14_AppendKeyPathP", "valueType"]
+- !private ["s14_ArrayProtocolP", "compactMap"]
+- !private ["s14_ArrayProtocolP", "first"]
+- !private ["s24_DestructorSafeContainerP", "compactMap"]
+- !private ["s24_DestructorSafeContainerP", "first"]
+- !private ["s19_HasContiguousBytesP", "compactMap"]
+- !private ["s19_HasContiguousBytesP", "first"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "compactMap"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "first"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "index"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "subscript"]
+- !private ["s21_ObjectiveCBridgeableP", "compactMap"]
+- !private ["s21_ObjectiveCBridgeableP", "first"]
+- !private ["s21_ObjectiveCBridgeableP", "index"]
+- !private ["s21_ObjectiveCBridgeableP", "subscript"]
+depends-nominal:
+- !private "s10AnyKeyPathC"
+- !private "Sa"
+- !private "SK"
+- !private "11PerfectCRUD15CRUDSQLExeErrorV"
+- !private "s7CVarArgP"
+- !private "s9CodingKeyP"
+- !private "Sl"
+- !private "10Foundation15ContiguousBytesP"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- !private "s23CustomStringConvertibleP"
+- !private "10Foundation12DataProtocolP"
+- !private "Se"
+- !private "s26DefaultStringInterpolationV"
+- !private "SD"
+- !private "SE"
+- !private "SQ"
+- !private "s5ErrorP"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s30ExpressibleByDictionaryLiteralP"
+- !private "SH"
+- !private "s22KeyedDecodingContainerV"
+- "s30KeyedDecodingContainerProtocolP"
+- !private "SM"
+- !private "10Foundation19MutableDataProtocolP"
+- !private "11PerfectCRUD14PivotContainerV"
+- !private "Sk"
+- !private "Sm"
+- !private "11PerfectCRUD14SQLExeDelegateP"
+- !private "11PerfectCRUD17SQLTopExeDelegateV"
+- "11PerfectCRUD15SQLTopRowReaderC"
+- !private "ST"
+- !private "s27StringInterpolationProtocolP"
+- !private "s16TextOutputStreamP"
+- !private "s14_AppendKeyPathP"
+- !private "s14_ArrayProtocolP"
+- !private "s24_DestructorSafeContainerP"
+- !private "s19_HasContiguousBytesP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- !private "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "bde07d795983d4ecbf9a60a79bf26c9c"

@@ -1,0 +1,6 @@
+version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+options: "0fd2f556922003f907ad6a3bde4369bf"
+build_time: [1555560727, 727067000]
+inputs:
+  "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/Perfect-Mustache/Sources/PerfectMustache/HTTPResponseExtension.swift": [1555560693, 356923267]
+  "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/Perfect-Mustache/Sources/PerfectMustache/Mustache.swift": [1555560693, 357227013]

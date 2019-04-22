@@ -1,0 +1,14 @@
+version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+options: "48a50be400a9cd61c25926b652005376"
+build_time: [1555560726, 256153000]
+inputs:
+  "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/Perfect-HTTP/Sources/PerfectHTTP/HTTPFilter.swift": [1555560692, 501757498]
+  "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/Perfect-HTTP/Sources/PerfectHTTP/HTTPHeaders.swift": [1555560692, 502064165]
+  "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/Perfect-HTTP/Sources/PerfectHTTP/HTTPMethod.swift": [1555560692, 502220910]
+  "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/Perfect-HTTP/Sources/PerfectHTTP/HTTPRequest.swift": [1555560692, 502351358]
+  "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/Perfect-HTTP/Sources/PerfectHTTP/HTTPResponse.swift": [1555560692, 502649541]
+  "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/Perfect-HTTP/Sources/PerfectHTTP/MimeReader.swift": [1555560692, 502856168]
+  "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/Perfect-HTTP/Sources/PerfectHTTP/MimeType.swift": [1555560692, 503318479]
+  "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/Perfect-HTTP/Sources/PerfectHTTP/Routing.swift": [1555560692, 503526313]
+  "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/Perfect-HTTP/Sources/PerfectHTTP/StaticFileHandler.swift": [1555560692, 503788200]
+  "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/Perfect-HTTP/Sources/PerfectHTTP/TypedRoutes.swift": [1555560692, 503975432]

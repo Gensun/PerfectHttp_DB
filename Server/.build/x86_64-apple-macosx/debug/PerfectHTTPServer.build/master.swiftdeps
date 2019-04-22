@@ -1,0 +1,22 @@
+version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+options: "8f39bd3c63aa20ce07dd364037523829"
+build_time: [1555560727, 727236000]
+inputs:
+  "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTP11/HTTP11Request.swift": [1555560692, 341142151]
+  "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTP11/HTTP11Response.swift": [1555560692, 341363488]
+  "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTP2/HPACK.swift": [1555560692, 341830585]
+  "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTP2/HTTP2.swift": [1555560692, 342047703]
+  "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTP2/HTTP2Client.swift": [1555560692, 342229009]
+  "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTP2/HTTP2Frame.swift": [1555560692, 342368241]
+  "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTP2/HTTP2FrameReader.swift": [1555560692, 342501901]
+  "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTP2/HTTP2FrameWriter.swift": [1555560692, 342630472]
+  "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTP2/HTTP2PrefaceValidator.swift": [1555560692, 342741050]
+  "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTP2/HTTP2Request.swift": [1555560692, 342915053]
+  "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTP2/HTTP2Response.swift": [1555560692, 343192695]
+  "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTP2/HTTP2Session.swift": [1555560692, 343384387]
+  "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTP2/HTTP2SessionSettings.swift": [1555560692, 343591640]
+  "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTPContentCompression.swift": [1555560692, 343737946]
+  "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTPMultiplexer.swift": [1555560692, 343884469]
+  "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTPServer.swift": [1555560692, 344097856]
+  "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTPServerEx.swift": [1555560692, 344255022]
+  "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/Perfect-HTTPServer/Sources/PerfectHTTPServer/HTTPServerExConfig.swift": [1555560692, 344437182]

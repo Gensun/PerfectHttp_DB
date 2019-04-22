@@ -1,0 +1,29 @@
+{
+  "": {
+    "swift-dependencies": "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/x86_64-apple-macosx/debug/PerfectMySQL.build/master.swiftdeps"
+  },
+  "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/Perfect-MySQL/Sources/PerfectMySQL/MySQL.swift": {
+    "dependencies": "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/x86_64-apple-macosx/debug/PerfectMySQL.build/MySQL.d",
+    "object": "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/x86_64-apple-macosx/debug/PerfectMySQL.build/MySQL.swift.o",
+    "swiftmodule": "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/x86_64-apple-macosx/debug/PerfectMySQL.build/MySQL~partial.swiftmodule",
+    "swift-dependencies": "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/x86_64-apple-macosx/debug/PerfectMySQL.build/MySQL.swiftdeps"
+  },
+  "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/Perfect-MySQL/Sources/PerfectMySQL/MySQLCRUD.swift": {
+    "dependencies": "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/x86_64-apple-macosx/debug/PerfectMySQL.build/MySQLCRUD.d",
+    "object": "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/x86_64-apple-macosx/debug/PerfectMySQL.build/MySQLCRUD.swift.o",
+    "swiftmodule": "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/x86_64-apple-macosx/debug/PerfectMySQL.build/MySQLCRUD~partial.swiftmodule",
+    "swift-dependencies": "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/x86_64-apple-macosx/debug/PerfectMySQL.build/MySQLCRUD.swiftdeps"
+  },
+  "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/Perfect-MySQL/Sources/PerfectMySQL/MySQLStmt.swift": {
+    "dependencies": "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/x86_64-apple-macosx/debug/PerfectMySQL.build/MySQLStmt.d",
+    "object": "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/x86_64-apple-macosx/debug/PerfectMySQL.build/MySQLStmt.swift.o",
+    "swiftmodule": "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/x86_64-apple-macosx/debug/PerfectMySQL.build/MySQLStmt~partial.swiftmodule",
+    "swift-dependencies": "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/x86_64-apple-macosx/debug/PerfectMySQL.build/MySQLStmt.swiftdeps"
+  },
+  "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/Perfect-MySQL/Sources/PerfectMySQL/PerfectMySQL.swift": {
+    "dependencies": "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/x86_64-apple-macosx/debug/PerfectMySQL.build/PerfectMySQL.d",
+    "object": "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/x86_64-apple-macosx/debug/PerfectMySQL.build/PerfectMySQL.swift.o",
+    "swiftmodule": "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/x86_64-apple-macosx/debug/PerfectMySQL.build/PerfectMySQL~partial.swiftmodule",
+    "swift-dependencies": "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/x86_64-apple-macosx/debug/PerfectMySQL.build/PerfectMySQL.swiftdeps"
+  }
+}

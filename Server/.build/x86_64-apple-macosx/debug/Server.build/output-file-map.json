@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/x86_64-apple-macosx/debug/Server.build/master.swiftdeps"
+  },
+  "/Users/admin/Desktop/swift server/RUNING/Client/Server/Sources/Server/main.swift": {
+    "dependencies": "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/x86_64-apple-macosx/debug/Server.build/main.d",
+    "object": "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/x86_64-apple-macosx/debug/Server.build/main.swift.o",
+    "swiftmodule": "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/x86_64-apple-macosx/debug/Server.build/main~partial.swiftmodule",
+    "swift-dependencies": "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/x86_64-apple-macosx/debug/Server.build/main.swiftdeps"
+  }
+}

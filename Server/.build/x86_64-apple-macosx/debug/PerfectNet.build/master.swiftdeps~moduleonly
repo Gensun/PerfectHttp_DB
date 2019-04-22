@@ -1,0 +1,11 @@
+version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+options: "2b629cdedd6417fc739a7613fa4c08ee"
+build_time: [1555560723, 950035000]
+inputs:
+  "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/Perfect-Net/Sources/PerfectNet/Net.swift": [1555560693, 866672108]
+  "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/Perfect-Net/Sources/PerfectNet/NetAddress.swift": [1555560693, 866801215]
+  "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/Perfect-Net/Sources/PerfectNet/NetEvent.swift": [1555560693, 866989989]
+  "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/Perfect-Net/Sources/PerfectNet/NetNamedPipe.swift": [1555560693, 867178430]
+  "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/Perfect-Net/Sources/PerfectNet/NetTCP.swift": [1555560693, 867622444]
+  "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/Perfect-Net/Sources/PerfectNet/NetTCPSSL.swift": [1555560693, 868182475]
+  "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/Perfect-Net/Sources/PerfectNet/NetUDP.swift": [1555560693, 868456660]

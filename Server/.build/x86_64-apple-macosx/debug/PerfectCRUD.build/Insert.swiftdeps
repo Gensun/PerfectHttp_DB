@@ -1,0 +1,348 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "Insert"
+provides-nominal:
+- "11PerfectCRUD6InsertV"
+provides-member:
+- ["11PerfectCRUD6InsertV", ""]
+- ["11PerfectCRUD5TableV", ""]
+- ["11PerfectCRUD5TableV", "insert"]
+- ["11PerfectCRUD5TableV", "insert"]
+- ["11PerfectCRUD5TableV", "insert"]
+- ["11PerfectCRUD5TableV", "insert"]
+- ["11PerfectCRUD5TableV", "insert"]
+- ["11PerfectCRUD5TableV", "insert"]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "+"
+- !private "..."
+- "AssignmentPrecedence"
+- !private "CRUDBindingsEncoder"
+- !private "CRUDColumnNameDecoder"
+- !private "CRUDLogging"
+- !private "CRUDSQLGenError"
+- "Codable"
+- "CommandProtocol"
+- "Decodable"
+- !private "FloatLiteralType"
+- "FromTableProtocol"
+- "Insert"
+- !private "IntegerLiteralType"
+- "KeyPath"
+- "PartialKeyPath"
+- "SQLGenState"
+- !private "Set"
+- !private "String"
+- !private "StringLiteralType"
+- "Table"
+- "TableProtocol"
+- "UnicodeScalarType"
+depends-member:
+- !private ["Sa", "isEmpty"]
+- !private ["Sa", "joined"]
+- !private ["Sa", "map"]
+- !private ["Sa", "subscript"]
+- !private ["SK", "isEmpty"]
+- !private ["SK", "joined"]
+- !private ["SK", "map"]
+- !private ["SK", "subscript"]
+- !private ["11PerfectCRUD19CRUDBindingsEncoderC", "completedBindings"]
+- !private ["11PerfectCRUD19CRUDBindingsEncoderC", "deinit"]
+- !private ["11PerfectCRUD19CRUDBindingsEncoderC", "init"]
+- !private ["11PerfectCRUD21CRUDColumnNameDecoderC", "collectedKeys"]
+- !private ["11PerfectCRUD21CRUDColumnNameDecoderC", "deinit"]
+- !private ["11PerfectCRUD21CRUDColumnNameDecoderC", "init"]
+- !private ["11PerfectCRUD19CRUDKeyPathsDecoderC", "getKeyPathName"]
+- !private ["11PerfectCRUD16CRUDLogEventTypeO", "query"]
+- !private ["11PerfectCRUD11CRUDLoggingV", "log"]
+- !private ["11PerfectCRUD15CRUDSQLGenErrorV", "deinit"]
+- !private ["11PerfectCRUD15CRUDSQLGenErrorV", "init"]
+- !private ["s7CVarArgP", "init"]
+- !private ["s7CVarArgP", "isEmpty"]
+- !private ["s7CVarArgP", "joined"]
+- !private ["s7CVarArgP", "map"]
+- !private ["s7CVarArgP", "subscript"]
+- !private ["Sl", "init"]
+- !private ["Sl", "isEmpty"]
+- !private ["Sl", "joined"]
+- !private ["Sl", "map"]
+- !private ["Sl", "subscript"]
+- !private ["11PerfectCRUD11SQLGenStateV7CommandO", "insert"]
+- !private ["11PerfectCRUD15CommandProtocolP", "CRUDBindingsEncoder"]
+- !private ["11PerfectCRUD15CommandProtocolP", "CRUDColumnNameDecoder"]
+- !private ["11PerfectCRUD15CommandProtocolP", "CRUDLogging"]
+- !private ["11PerfectCRUD15CommandProtocolP", "CRUDSQLGenError"]
+- ["11PerfectCRUD15CommandProtocolP", "FromTableType"]
+- ["11PerfectCRUD15CommandProtocolP", "OverAllForm"]
+- !private ["11PerfectCRUD15CommandProtocolP", "SQLGenState"]
+- !private ["11PerfectCRUD15CommandProtocolP", "Set"]
+- ["11PerfectCRUD15CommandProtocolP", ""]
+- !private ["11PerfectCRUD15CommandProtocolP", "databaseConfiguration"]
+- ["11PerfectCRUD15CommandProtocolP", "fromTable"]
+- !private ["11PerfectCRUD15CommandProtocolP", "init"]
+- !private ["11PerfectCRUD15CommandProtocolP", "init"]
+- ["11PerfectCRUD15CommandProtocolP", "setSQL"]
+- ["11PerfectCRUD15CommandProtocolP", "setState"]
+- ["11PerfectCRUD15CommandProtocolP", "sqlGenState"]
+- !private ["10Foundation15ContiguousBytesP", "isEmpty"]
+- !private ["10Foundation15ContiguousBytesP", "joined"]
+- !private ["10Foundation15ContiguousBytesP", "map"]
+- !private ["10Foundation15ContiguousBytesP", "subscript"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "isEmpty"]
+- !private ["s28CustomDebugStringConvertibleP", "joined"]
+- !private ["s28CustomDebugStringConvertibleP", "map"]
+- !private ["s28CustomDebugStringConvertibleP", "subscript"]
+- !private ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "isEmpty"]
+- !private ["s17CustomReflectableP", "joined"]
+- !private ["s17CustomReflectableP", "map"]
+- !private ["s17CustomReflectableP", "subscript"]
+- !private ["s23CustomStringConvertibleP", "appendInterpolation"]
+- !private ["s23CustomStringConvertibleP", "appendLiteral"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- !private ["s23CustomStringConvertibleP", "isEmpty"]
+- !private ["s23CustomStringConvertibleP", "joined"]
+- !private ["s23CustomStringConvertibleP", "map"]
+- !private ["s23CustomStringConvertibleP", "query"]
+- !private ["s23CustomStringConvertibleP", "subscript"]
+- !private ["10Foundation12DataProtocolP", "isEmpty"]
+- !private ["10Foundation12DataProtocolP", "joined"]
+- !private ["10Foundation12DataProtocolP", "map"]
+- !private ["10Foundation12DataProtocolP", "subscript"]
+- !private ["11PerfectCRUD29DatabaseConfigurationProtocolP", "sqlExeDelegate"]
+- !private ["11PerfectCRUD29DatabaseConfigurationProtocolP", "sqlGenDelegate"]
+- !private ["Se", "CRUDTableName"]
+- !private ["Se", "encode"]
+- !private ["Se", "init"]
+- !private ["Se", "init"]
+- !private ["Se", "isEmpty"]
+- !private ["Se", "joined"]
+- !private ["Se", "map"]
+- !private ["Se", "subscript"]
+- !private ["s7DecoderP", "collectedKeys"]
+- !private ["s7DecoderP", "getKeyPathName"]
+- !private ["s7DecoderP", "init"]
+- !private ["s26DefaultStringInterpolationV", "appendInterpolation"]
+- !private ["s26DefaultStringInterpolationV", "appendLiteral"]
+- !private ["SE", "CRUDTableName"]
+- !private ["SE", "encode"]
+- !private ["SE", "init"]
+- !private ["SE", "init"]
+- !private ["SE", "isEmpty"]
+- !private ["SE", "joined"]
+- !private ["SE", "map"]
+- !private ["SE", "subscript"]
+- !private ["s7EncoderP", "completedBindings"]
+- !private ["s7EncoderP", "init"]
+- !private ["SQ", "init"]
+- !private ["SQ", "insert"]
+- !private ["SQ", "isEmpty"]
+- !private ["SQ", "joined"]
+- !private ["SQ", "map"]
+- !private ["SQ", "query"]
+- !private ["SQ", "subscript"]
+- !private ["s5ErrorP", "init"]
+- !private ["s25ExpressibleByArrayLiteralP", "init"]
+- !private ["s25ExpressibleByArrayLiteralP", "isEmpty"]
+- !private ["s25ExpressibleByArrayLiteralP", "joined"]
+- !private ["s25ExpressibleByArrayLiteralP", "map"]
+- !private ["s25ExpressibleByArrayLiteralP", "subscript"]
+- !private ["11PerfectCRUD17FromTableProtocolP", "CRUDBindingsEncoder"]
+- !private ["11PerfectCRUD17FromTableProtocolP", "CRUDColumnNameDecoder"]
+- !private ["11PerfectCRUD17FromTableProtocolP", "CRUDLogging"]
+- !private ["11PerfectCRUD17FromTableProtocolP", "CRUDSQLGenError"]
+- ["11PerfectCRUD17FromTableProtocolP", "FromTableType"]
+- ["11PerfectCRUD17FromTableProtocolP", "OverAllForm"]
+- !private ["11PerfectCRUD17FromTableProtocolP", "SQLGenState"]
+- !private ["11PerfectCRUD17FromTableProtocolP", "Set"]
+- ["11PerfectCRUD17FromTableProtocolP", ""]
+- !private ["11PerfectCRUD17FromTableProtocolP", "databaseConfiguration"]
+- ["11PerfectCRUD17FromTableProtocolP", "fromTable"]
+- !private ["11PerfectCRUD17FromTableProtocolP", "init"]
+- !private ["11PerfectCRUD17FromTableProtocolP", "init"]
+- ["11PerfectCRUD17FromTableProtocolP", "setSQL"]
+- ["11PerfectCRUD17FromTableProtocolP", "setState"]
+- ["11PerfectCRUD17FromTableProtocolP", "sqlGenState"]
+- !private ["SH", "init"]
+- !private ["SH", "insert"]
+- !private ["SH", "isEmpty"]
+- !private ["SH", "joined"]
+- !private ["SH", "map"]
+- !private ["SH", "query"]
+- !private ["SH", "subscript"]
+- !private ["11PerfectCRUD6InsertV", "CRUDBindingsEncoder"]
+- !private ["11PerfectCRUD6InsertV", "CRUDColumnNameDecoder"]
+- !private ["11PerfectCRUD6InsertV", "CRUDLogging"]
+- !private ["11PerfectCRUD6InsertV", "CRUDSQLGenError"]
+- ["11PerfectCRUD6InsertV", "FromTableType"]
+- ["11PerfectCRUD6InsertV", "OverAllForm"]
+- ["11PerfectCRUD6InsertV", "PartialKeyPath"]
+- ["11PerfectCRUD6InsertV", "SQLGenState"]
+- !private ["11PerfectCRUD6InsertV", "Set"]
+- !private ["11PerfectCRUD6InsertV", "String"]
+- !private ["11PerfectCRUD6InsertV", "databaseConfiguration"]
+- ["11PerfectCRUD6InsertV", "deinit"]
+- ["11PerfectCRUD6InsertV", "fromTable"]
+- ["11PerfectCRUD6InsertV", "init"]
+- !private ["11PerfectCRUD6InsertV", "init"]
+- ["11PerfectCRUD6InsertV", "setSQL"]
+- ["11PerfectCRUD6InsertV", "setState"]
+- ["11PerfectCRUD6InsertV", "sqlGenState"]
+- !private ["SM", "isEmpty"]
+- !private ["SM", "joined"]
+- !private ["SM", "map"]
+- !private ["SM", "subscript"]
+- !private ["10Foundation19MutableDataProtocolP", "isEmpty"]
+- !private ["10Foundation19MutableDataProtocolP", "joined"]
+- !private ["10Foundation19MutableDataProtocolP", "map"]
+- !private ["10Foundation19MutableDataProtocolP", "subscript"]
+- !private ["11PerfectCRUD9QueryItemP", "CRUDBindingsEncoder"]
+- !private ["11PerfectCRUD9QueryItemP", "CRUDColumnNameDecoder"]
+- !private ["11PerfectCRUD9QueryItemP", "CRUDLogging"]
+- !private ["11PerfectCRUD9QueryItemP", "CRUDSQLGenError"]
+- ["11PerfectCRUD9QueryItemP", "FromTableType"]
+- ["11PerfectCRUD9QueryItemP", "OverAllForm"]
+- !private ["11PerfectCRUD9QueryItemP", "SQLGenState"]
+- !private ["11PerfectCRUD9QueryItemP", "Set"]
+- ["11PerfectCRUD9QueryItemP", ""]
+- !private ["11PerfectCRUD9QueryItemP", "databaseConfiguration"]
+- ["11PerfectCRUD9QueryItemP", "fromTable"]
+- !private ["11PerfectCRUD9QueryItemP", "init"]
+- !private ["11PerfectCRUD9QueryItemP", "init"]
+- ["11PerfectCRUD9QueryItemP", "setSQL"]
+- ["11PerfectCRUD9QueryItemP", "setState"]
+- ["11PerfectCRUD9QueryItemP", "sqlGenState"]
+- !private ["Sk", "isEmpty"]
+- !private ["Sk", "joined"]
+- !private ["Sk", "map"]
+- !private ["Sk", "subscript"]
+- !private ["Sm", "isEmpty"]
+- !private ["Sm", "joined"]
+- !private ["Sm", "map"]
+- !private ["Sm", "subscript"]
+- !private ["11PerfectCRUD14SQLExeDelegateP", "bind"]
+- !private ["11PerfectCRUD14SQLExeDelegateP", "hasNext"]
+- !private ["11PerfectCRUD14SQLGenDelegateP", "bindings"]
+- !private ["11PerfectCRUD14SQLGenDelegateP", "getEmptyInsertSnippet"]
+- !private ["11PerfectCRUD14SQLGenDelegateP", "quote"]
+- !private ["11PerfectCRUD11SQLGenStateV", "command"]
+- !private ["11PerfectCRUD11SQLGenStateV", "init"]
+- !private ["11PerfectCRUD11SQLGenStateV", "tableData"]
+- !private ["ST", "init"]
+- !private ["ST", "isEmpty"]
+- !private ["ST", "joined"]
+- !private ["ST", "map"]
+- !private ["ST", "subscript"]
+- !private ["Sh", "init"]
+- !private ["s10SetAlgebraP", "init"]
+- !private ["s27StringInterpolationProtocolP", "appendInterpolation"]
+- !private ["s27StringInterpolationProtocolP", "appendLiteral"]
+- ["11PerfectCRUD5TableV", "Decodable"]
+- ["11PerfectCRUD5TableV", "Form"]
+- ["11PerfectCRUD5TableV", "Insert"]
+- ["11PerfectCRUD5TableV", "KeyPath"]
+- ["11PerfectCRUD5TableV", "OverAllForm"]
+- ["11PerfectCRUD5TableV", "PartialKeyPath"]
+- ["11PerfectCRUD5TableV", "Table"]
+- ["11PerfectCRUD5TableV", "deinit"]
+- ["11PerfectCRUD5TableV", "insert"]
+- !private ["11PerfectCRUD11SQLGenStateV9TableDataV", "keyPathDecoder"]
+- !private ["11PerfectCRUD11SQLGenStateV9TableDataV", "modelInstance"]
+- !private ["11PerfectCRUD13TableProtocolP", "databaseConfiguration"]
+- !private ["11PerfectCRUD13TableProtocolP", "setState"]
+- !private ["s16TextOutputStreamP", "appendInterpolation"]
+- !private ["s16TextOutputStreamP", "appendLiteral"]
+- !private ["s14_ArrayProtocolP", "isEmpty"]
+- !private ["s14_ArrayProtocolP", "joined"]
+- !private ["s14_ArrayProtocolP", "map"]
+- !private ["s14_ArrayProtocolP", "subscript"]
+- !private ["s24_DestructorSafeContainerP", "isEmpty"]
+- !private ["s24_DestructorSafeContainerP", "joined"]
+- !private ["s24_DestructorSafeContainerP", "map"]
+- !private ["s24_DestructorSafeContainerP", "subscript"]
+- !private ["s19_HasContiguousBytesP", "isEmpty"]
+- !private ["s19_HasContiguousBytesP", "joined"]
+- !private ["s19_HasContiguousBytesP", "map"]
+- !private ["s19_HasContiguousBytesP", "subscript"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "isEmpty"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "joined"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "map"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "subscript"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "isEmpty"]
+- !private ["s21_ObjectiveCBridgeableP", "joined"]
+- !private ["s21_ObjectiveCBridgeableP", "map"]
+- !private ["s21_ObjectiveCBridgeableP", "subscript"]
+depends-nominal:
+- !private "Sa"
+- !private "SK"
+- !private "11PerfectCRUD19CRUDBindingsEncoderC"
+- !private "11PerfectCRUD21CRUDColumnNameDecoderC"
+- !private "11PerfectCRUD19CRUDKeyPathsDecoderC"
+- !private "11PerfectCRUD16CRUDLogEventTypeO"
+- !private "11PerfectCRUD11CRUDLoggingV"
+- !private "11PerfectCRUD15CRUDSQLGenErrorV"
+- !private "s7CVarArgP"
+- !private "Sl"
+- !private "11PerfectCRUD11SQLGenStateV7CommandO"
+- "11PerfectCRUD15CommandProtocolP"
+- !private "10Foundation15ContiguousBytesP"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- !private "s23CustomStringConvertibleP"
+- !private "10Foundation12DataProtocolP"
+- !private "11PerfectCRUD29DatabaseConfigurationProtocolP"
+- !private "Se"
+- !private "s7DecoderP"
+- !private "s26DefaultStringInterpolationV"
+- !private "SE"
+- !private "s7EncoderP"
+- !private "SQ"
+- !private "s5ErrorP"
+- !private "s25ExpressibleByArrayLiteralP"
+- "11PerfectCRUD17FromTableProtocolP"
+- !private "SH"
+- "11PerfectCRUD6InsertV"
+- !private "SM"
+- !private "10Foundation19MutableDataProtocolP"
+- "11PerfectCRUD9QueryItemP"
+- !private "Sk"
+- !private "Sm"
+- !private "11PerfectCRUD14SQLExeDelegateP"
+- !private "11PerfectCRUD14SQLGenDelegateP"
+- !private "11PerfectCRUD11SQLGenStateV"
+- !private "ST"
+- !private "Sh"
+- !private "s10SetAlgebraP"
+- !private "s27StringInterpolationProtocolP"
+- "11PerfectCRUD5TableV"
+- !private "11PerfectCRUD11SQLGenStateV9TableDataV"
+- !private "11PerfectCRUD13TableProtocolP"
+- !private "s16TextOutputStreamP"
+- !private "s14_ArrayProtocolP"
+- !private "s24_DestructorSafeContainerP"
+- !private "s19_HasContiguousBytesP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- !private "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "1dc5461338260d3accb6a12ee6e1da83"

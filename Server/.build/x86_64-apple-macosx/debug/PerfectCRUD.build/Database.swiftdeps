@@ -1,0 +1,171 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "Database"
+provides-nominal:
+- "11PerfectCRUD8DatabaseV"
+provides-member:
+- ["11PerfectCRUD8DatabaseV", ""]
+- ["11PerfectCRUD8DatabaseV", "sql"]
+- ["11PerfectCRUD8DatabaseV", "sql"]
+- ["11PerfectCRUD8DatabaseV", "transaction"]
+provides-dynamic-lookup:
+depends-top-level:
+- "AssignmentPrecedence"
+- "Bindings"
+- !private "CRUDLogging"
+- !private "CRUDRowDecoder"
+- "Codable"
+- !private "ColumnKey"
+- "Database"
+- "DatabaseConfigurationProtocol"
+- "DatabaseProtocol"
+- !private "FloatLiteralType"
+- !private "IntegerLiteralType"
+- "String"
+- !private "StringLiteralType"
+- "Table"
+depends-member:
+- !private ["Sa", "append"]
+- !private ["SK", "append"]
+- !private ["11PerfectCRUD16CRUDLogEventTypeO", "query"]
+- !private ["11PerfectCRUD11CRUDLoggingV", "log"]
+- !private ["11PerfectCRUD14CRUDRowDecoderC", "deinit"]
+- !private ["11PerfectCRUD14CRUDRowDecoderC", "init"]
+- !private ["s7CVarArgP", "append"]
+- !private ["Sl", "append"]
+- ["11PerfectCRUD9ColumnKeyV", "deinit"]
+- !private ["10Foundation15ContiguousBytesP", "append"]
+- !private ["s28CustomDebugStringConvertibleP", "append"]
+- !private ["s17CustomReflectableP", "append"]
+- !private ["s23CustomStringConvertibleP", "append"]
+- !private ["s23CustomStringConvertibleP", "query"]
+- !private ["10Foundation12DataProtocolP", "append"]
+- ["11PerfectCRUD8DatabaseV", "Bindings"]
+- !private ["11PerfectCRUD8DatabaseV", "CRUDLogging"]
+- !private ["11PerfectCRUD8DatabaseV", "CRUDRowDecoder"]
+- ["11PerfectCRUD8DatabaseV", "Codable"]
+- !private ["11PerfectCRUD8DatabaseV", "ColumnKey"]
+- ["11PerfectCRUD8DatabaseV", "Configuration"]
+- ["11PerfectCRUD8DatabaseV", "Database"]
+- ["11PerfectCRUD8DatabaseV", "String"]
+- ["11PerfectCRUD8DatabaseV", "Table"]
+- ["11PerfectCRUD8DatabaseV", "configuration"]
+- ["11PerfectCRUD8DatabaseV", "deinit"]
+- ["11PerfectCRUD8DatabaseV", "init"]
+- ["11PerfectCRUD8DatabaseV", "sql"]
+- ["11PerfectCRUD8DatabaseV", "table"]
+- ["11PerfectCRUD8DatabaseV", "transaction"]
+- !private ["11PerfectCRUD29DatabaseConfigurationProtocolP", "sqlExeDelegate"]
+- !private ["11PerfectCRUD16DatabaseProtocolP", "CRUDLogging"]
+- !private ["11PerfectCRUD16DatabaseProtocolP", "CRUDRowDecoder"]
+- ["11PerfectCRUD16DatabaseProtocolP", "Configuration"]
+- ["11PerfectCRUD16DatabaseProtocolP", ""]
+- ["11PerfectCRUD16DatabaseProtocolP", "configuration"]
+- !private ["11PerfectCRUD16DatabaseProtocolP", "sql"]
+- ["11PerfectCRUD16DatabaseProtocolP", "table"]
+- !private ["Se", "append"]
+- !private ["Se", "init"]
+- !private ["s7DecoderP", "init"]
+- !private ["11PerfectCRUD10DeleteableP", "init"]
+- !private ["11PerfectCRUD10DeleteableP", "init"]
+- !private ["SE", "append"]
+- !private ["SE", "init"]
+- !private ["SQ", "append"]
+- !private ["SQ", "query"]
+- !private ["s25ExpressibleByArrayLiteralP", "append"]
+- !private ["SH", "append"]
+- !private ["SH", "query"]
+- !private ["11PerfectCRUD8JoinableP", "init"]
+- !private ["11PerfectCRUD8JoinableP", "init"]
+- !private ["11PerfectCRUD9LimitableP", "init"]
+- !private ["11PerfectCRUD9LimitableP", "init"]
+- !private ["SM", "append"]
+- !private ["10Foundation19MutableDataProtocolP", "append"]
+- !private ["11PerfectCRUD9OrderableP", "init"]
+- !private ["11PerfectCRUD9OrderableP", "init"]
+- !private ["11PerfectCRUD9QueryItemP", "init"]
+- !private ["11PerfectCRUD9QueryItemP", "init"]
+- !private ["Sk", "append"]
+- !private ["Sm", "append"]
+- !private ["11PerfectCRUD14SQLExeDelegateP", "bind"]
+- !private ["11PerfectCRUD14SQLExeDelegateP", "hasNext"]
+- !private ["11PerfectCRUD10SelectableP", "init"]
+- !private ["11PerfectCRUD10SelectableP", "init"]
+- !private ["ST", "append"]
+- !private ["11PerfectCRUD5TableV", "init"]
+- !private ["11PerfectCRUD5TableV", "init"]
+- !private ["11PerfectCRUD13TableProtocolP", "init"]
+- !private ["11PerfectCRUD13TableProtocolP", "init"]
+- !private ["11PerfectCRUD9UpdatableP", "init"]
+- !private ["11PerfectCRUD9UpdatableP", "init"]
+- !private ["11PerfectCRUD9WhereableP", "init"]
+- !private ["11PerfectCRUD9WhereableP", "init"]
+- !private ["s14_ArrayProtocolP", "append"]
+- !private ["s24_DestructorSafeContainerP", "append"]
+- !private ["s19_HasContiguousBytesP", "append"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "append"]
+- !private ["s21_ObjectiveCBridgeableP", "append"]
+depends-nominal:
+- !private "Sa"
+- !private "SK"
+- !private "11PerfectCRUD16CRUDLogEventTypeO"
+- !private "11PerfectCRUD11CRUDLoggingV"
+- !private "11PerfectCRUD14CRUDRowDecoderC"
+- !private "s7CVarArgP"
+- !private "Sl"
+- "11PerfectCRUD9ColumnKeyV"
+- !private "10Foundation15ContiguousBytesP"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- !private "s23CustomStringConvertibleP"
+- !private "10Foundation12DataProtocolP"
+- "11PerfectCRUD8DatabaseV"
+- !private "11PerfectCRUD29DatabaseConfigurationProtocolP"
+- "11PerfectCRUD16DatabaseProtocolP"
+- !private "Se"
+- !private "s7DecoderP"
+- !private "11PerfectCRUD10DeleteableP"
+- !private "SE"
+- !private "SQ"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "SH"
+- !private "11PerfectCRUD8JoinableP"
+- !private "11PerfectCRUD9LimitableP"
+- !private "SM"
+- !private "10Foundation19MutableDataProtocolP"
+- !private "11PerfectCRUD9OrderableP"
+- !private "11PerfectCRUD9QueryItemP"
+- !private "Sk"
+- !private "Sm"
+- !private "11PerfectCRUD14SQLExeDelegateP"
+- !private "11PerfectCRUD10SelectableP"
+- !private "ST"
+- !private "11PerfectCRUD5TableV"
+- !private "11PerfectCRUD13TableProtocolP"
+- !private "11PerfectCRUD9UpdatableP"
+- !private "11PerfectCRUD9WhereableP"
+- !private "s14_ArrayProtocolP"
+- !private "s24_DestructorSafeContainerP"
+- !private "s19_HasContiguousBytesP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- !private "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "9b529acac1046e249fada102d59ab85e"

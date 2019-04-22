@@ -1,0 +1,175 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "CRUDDecoderError"
+- "CRUDEncoderError"
+- "ColumnKey"
+- "SpecialType"
+provides-nominal:
+- "11PerfectCRUD16CRUDDecoderErrorV"
+- "11PerfectCRUD16CRUDEncoderErrorV"
+- "11PerfectCRUD9ColumnKeyV"
+- "11PerfectCRUD11SpecialTypeO"
+provides-member:
+- ["11PerfectCRUD16CRUDDecoderErrorV", ""]
+- ["11PerfectCRUD16CRUDEncoderErrorV", ""]
+- ["11PerfectCRUD9ColumnKeyV", ""]
+- ["11PerfectCRUD11SpecialTypeO", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "=="
+- "AssignmentPrecedence"
+- "CRUDDecoderError"
+- "CRUDEncoderError"
+- !private "CRUDLogging"
+- !private "Codable"
+- "CodingKey"
+- "ColumnKey"
+- !private "Data"
+- !private "Date"
+- "Error"
+- !private "FloatLiteralType"
+- "Int"
+- !private "Int8"
+- !private "IntegerLiteralType"
+- "SpecialType"
+- "String"
+- !private "UInt8"
+- !private "URL"
+- !private "UUID"
+depends-member:
+- !private ["11PerfectCRUD16CRUDDecoderErrorV", "CRUDLogging"]
+- ["11PerfectCRUD16CRUDDecoderErrorV", "String"]
+- ["11PerfectCRUD16CRUDDecoderErrorV", "_code"]
+- ["11PerfectCRUD16CRUDDecoderErrorV", "_domain"]
+- ["11PerfectCRUD16CRUDDecoderErrorV", "_getEmbeddedNSError"]
+- ["11PerfectCRUD16CRUDDecoderErrorV", "_userInfo"]
+- ["11PerfectCRUD16CRUDDecoderErrorV", "deinit"]
+- ["11PerfectCRUD16CRUDDecoderErrorV", "init"]
+- ["11PerfectCRUD16CRUDDecoderErrorV", "msg"]
+- !private ["11PerfectCRUD16CRUDEncoderErrorV", "CRUDLogging"]
+- ["11PerfectCRUD16CRUDEncoderErrorV", "String"]
+- ["11PerfectCRUD16CRUDEncoderErrorV", "_code"]
+- ["11PerfectCRUD16CRUDEncoderErrorV", "_domain"]
+- ["11PerfectCRUD16CRUDEncoderErrorV", "_getEmbeddedNSError"]
+- ["11PerfectCRUD16CRUDEncoderErrorV", "_userInfo"]
+- ["11PerfectCRUD16CRUDEncoderErrorV", "deinit"]
+- ["11PerfectCRUD16CRUDEncoderErrorV", "init"]
+- ["11PerfectCRUD16CRUDEncoderErrorV", "msg"]
+- !private ["11PerfectCRUD16CRUDLogEventTypeO", "error"]
+- !private ["11PerfectCRUD11CRUDLoggingV", "log"]
+- ["s9CodingKeyP", ""]
+- ["s9CodingKeyP", "debugDescription"]
+- ["s9CodingKeyP", "description"]
+- ["s9CodingKeyP", "init"]
+- ["s9CodingKeyP", "intValue"]
+- ["s9CodingKeyP", "stringValue"]
+- ["11PerfectCRUD9ColumnKeyV", "Int"]
+- ["11PerfectCRUD9ColumnKeyV", "String"]
+- ["11PerfectCRUD9ColumnKeyV", "debugDescription"]
+- ["11PerfectCRUD9ColumnKeyV", "deinit"]
+- ["11PerfectCRUD9ColumnKeyV", "description"]
+- ["11PerfectCRUD9ColumnKeyV", "init"]
+- ["11PerfectCRUD9ColumnKeyV", "intValue"]
+- ["11PerfectCRUD9ColumnKeyV", "stringValue"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- ["s28CustomDebugStringConvertibleP", "debugDescription"]
+- ["s28CustomDebugStringConvertibleP", "description"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- ["s28CustomDebugStringConvertibleP", "intValue"]
+- ["s28CustomDebugStringConvertibleP", "stringValue"]
+- ["s23CustomStringConvertibleP", ""]
+- ["s23CustomStringConvertibleP", "debugDescription"]
+- ["s23CustomStringConvertibleP", "description"]
+- !private ["s23CustomStringConvertibleP", "error"]
+- ["s23CustomStringConvertibleP", "init"]
+- ["s23CustomStringConvertibleP", "intValue"]
+- ["s23CustomStringConvertibleP", "stringValue"]
+- ["SQ", "=="]
+- ["SQ", ""]
+- ["SQ", "_rawHashValue"]
+- !private ["SQ", "codable"]
+- !private ["SQ", "data"]
+- !private ["SQ", "date"]
+- !private ["SQ", "error"]
+- ["SQ", "hash"]
+- ["SQ", "hashValue"]
+- !private ["SQ", "int8Array"]
+- !private ["SQ", "uint8Array"]
+- !private ["SQ", "url"]
+- !private ["SQ", "uuid"]
+- !private ["s5ErrorP", "CRUDLogging"]
+- ["s5ErrorP", ""]
+- ["s5ErrorP", "_code"]
+- ["s5ErrorP", "_domain"]
+- ["s5ErrorP", "_getEmbeddedNSError"]
+- ["s5ErrorP", "_userInfo"]
+- !private ["s5ErrorP", "msg"]
+- ["SH", "=="]
+- ["SH", ""]
+- ["SH", "_rawHashValue"]
+- !private ["SH", "codable"]
+- !private ["SH", "data"]
+- !private ["SH", "date"]
+- !private ["SH", "error"]
+- ["SH", "hash"]
+- ["SH", "hashValue"]
+- !private ["SH", "int8Array"]
+- !private ["SH", "uint8Array"]
+- !private ["SH", "url"]
+- !private ["SH", "uuid"]
+- !private ["s6HasherV", "combine"]
+- ["11PerfectCRUD11SpecialTypeO", "=="]
+- !private ["11PerfectCRUD11SpecialTypeO", "Codable"]
+- !private ["11PerfectCRUD11SpecialTypeO", "Data"]
+- !private ["11PerfectCRUD11SpecialTypeO", "Date"]
+- !private ["11PerfectCRUD11SpecialTypeO", "Int8"]
+- !private ["11PerfectCRUD11SpecialTypeO", "UInt8"]
+- !private ["11PerfectCRUD11SpecialTypeO", "URL"]
+- !private ["11PerfectCRUD11SpecialTypeO", "UUID"]
+- ["11PerfectCRUD11SpecialTypeO", "__derived_enum_equals"]
+- ["11PerfectCRUD11SpecialTypeO", "_rawHashValue"]
+- ["11PerfectCRUD11SpecialTypeO", "codable"]
+- ["11PerfectCRUD11SpecialTypeO", "data"]
+- ["11PerfectCRUD11SpecialTypeO", "date"]
+- ["11PerfectCRUD11SpecialTypeO", "deinit"]
+- ["11PerfectCRUD11SpecialTypeO", "hash"]
+- ["11PerfectCRUD11SpecialTypeO", "hashValue"]
+- ["11PerfectCRUD11SpecialTypeO", "init"]
+- ["11PerfectCRUD11SpecialTypeO", "int8Array"]
+- ["11PerfectCRUD11SpecialTypeO", "uint8Array"]
+- ["11PerfectCRUD11SpecialTypeO", "url"]
+- ["11PerfectCRUD11SpecialTypeO", "uuid"]
+depends-nominal:
+- "11PerfectCRUD16CRUDDecoderErrorV"
+- "11PerfectCRUD16CRUDEncoderErrorV"
+- !private "11PerfectCRUD16CRUDLogEventTypeO"
+- !private "11PerfectCRUD11CRUDLoggingV"
+- "s9CodingKeyP"
+- "11PerfectCRUD9ColumnKeyV"
+- "s28CustomDebugStringConvertibleP"
+- "s23CustomStringConvertibleP"
+- "SQ"
+- "s5ErrorP"
+- "SH"
+- !private "s6HasherV"
+- "11PerfectCRUD11SpecialTypeO"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "2339c0b406380bfa620eeafbb3f31a41"

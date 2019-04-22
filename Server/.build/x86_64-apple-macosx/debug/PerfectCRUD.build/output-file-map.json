@@ -1,0 +1,161 @@
+{
+  "": {
+    "swift-dependencies": "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/master.swiftdeps"
+  },
+  "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/Perfect-CRUD/Sources/PerfectCRUD/Coding/Coding.swift": {
+    "dependencies": "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Coding/Coding.d",
+    "object": "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Coding/Coding.swift.o",
+    "swiftmodule": "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Coding/Coding~partial.swiftmodule",
+    "swift-dependencies": "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Coding/Coding.swiftdeps"
+  },
+  "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/Perfect-CRUD/Sources/PerfectCRUD/Coding/CodingBindings.swift": {
+    "dependencies": "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Coding/CodingBindings.d",
+    "object": "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Coding/CodingBindings.swift.o",
+    "swiftmodule": "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Coding/CodingBindings~partial.swiftmodule",
+    "swift-dependencies": "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Coding/CodingBindings.swiftdeps"
+  },
+  "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/Perfect-CRUD/Sources/PerfectCRUD/Coding/CodingJoins.swift": {
+    "dependencies": "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Coding/CodingJoins.d",
+    "object": "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Coding/CodingJoins.swift.o",
+    "swiftmodule": "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Coding/CodingJoins~partial.swiftmodule",
+    "swift-dependencies": "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Coding/CodingJoins.swiftdeps"
+  },
+  "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/Perfect-CRUD/Sources/PerfectCRUD/Coding/CodingKeyPaths.swift": {
+    "dependencies": "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Coding/CodingKeyPaths.d",
+    "object": "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Coding/CodingKeyPaths.swift.o",
+    "swiftmodule": "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Coding/CodingKeyPaths~partial.swiftmodule",
+    "swift-dependencies": "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Coding/CodingKeyPaths.swiftdeps"
+  },
+  "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/Perfect-CRUD/Sources/PerfectCRUD/Coding/CodingNames.swift": {
+    "dependencies": "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Coding/CodingNames.d",
+    "object": "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Coding/CodingNames.swift.o",
+    "swiftmodule": "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Coding/CodingNames~partial.swiftmodule",
+    "swift-dependencies": "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Coding/CodingNames.swiftdeps"
+  },
+  "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/Perfect-CRUD/Sources/PerfectCRUD/Coding/CodingRows.swift": {
+    "dependencies": "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Coding/CodingRows.d",
+    "object": "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Coding/CodingRows.swift.o",
+    "swiftmodule": "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Coding/CodingRows~partial.swiftmodule",
+    "swift-dependencies": "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Coding/CodingRows.swiftdeps"
+  },
+  "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/Perfect-CRUD/Sources/PerfectCRUD/Create.swift": {
+    "dependencies": "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Create.d",
+    "object": "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Create.swift.o",
+    "swiftmodule": "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Create~partial.swiftmodule",
+    "swift-dependencies": "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Create.swiftdeps"
+  },
+  "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/Perfect-CRUD/Sources/PerfectCRUD/Database.swift": {
+    "dependencies": "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Database.d",
+    "object": "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Database.swift.o",
+    "swiftmodule": "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Database~partial.swiftmodule",
+    "swift-dependencies": "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Database.swiftdeps"
+  },
+  "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/Perfect-CRUD/Sources/PerfectCRUD/Delete.swift": {
+    "dependencies": "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Delete.d",
+    "object": "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Delete.swift.o",
+    "swiftmodule": "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Delete~partial.swiftmodule",
+    "swift-dependencies": "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Delete.swiftdeps"
+  },
+  "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/Perfect-CRUD/Sources/PerfectCRUD/Expression/Comparison.swift": {
+    "dependencies": "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Expression/Comparison.d",
+    "object": "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Expression/Comparison.swift.o",
+    "swiftmodule": "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Expression/Comparison~partial.swiftmodule",
+    "swift-dependencies": "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Expression/Comparison.swiftdeps"
+  },
+  "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/Perfect-CRUD/Sources/PerfectCRUD/Expression/ComparisonInts.swift": {
+    "dependencies": "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Expression/ComparisonInts.d",
+    "object": "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Expression/ComparisonInts.swift.o",
+    "swiftmodule": "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Expression/ComparisonInts~partial.swiftmodule",
+    "swift-dependencies": "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Expression/ComparisonInts.swiftdeps"
+  },
+  "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/Perfect-CRUD/Sources/PerfectCRUD/Expression/Equality.swift": {
+    "dependencies": "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Expression/Equality.d",
+    "object": "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Expression/Equality.swift.o",
+    "swiftmodule": "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Expression/Equality~partial.swiftmodule",
+    "swift-dependencies": "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Expression/Equality.swiftdeps"
+  },
+  "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/Perfect-CRUD/Sources/PerfectCRUD/Expression/EqualityInts.swift": {
+    "dependencies": "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Expression/EqualityInts.d",
+    "object": "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Expression/EqualityInts.swift.o",
+    "swiftmodule": "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Expression/EqualityInts~partial.swiftmodule",
+    "swift-dependencies": "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Expression/EqualityInts.swiftdeps"
+  },
+  "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/Perfect-CRUD/Sources/PerfectCRUD/Expression/Expression.swift": {
+    "dependencies": "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Expression/Expression.d",
+    "object": "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Expression/Expression.swift.o",
+    "swiftmodule": "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Expression/Expression~partial.swiftmodule",
+    "swift-dependencies": "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Expression/Expression.swiftdeps"
+  },
+  "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/Perfect-CRUD/Sources/PerfectCRUD/Expression/In.swift": {
+    "dependencies": "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Expression/In.d",
+    "object": "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Expression/In.swift.o",
+    "swiftmodule": "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Expression/In~partial.swiftmodule",
+    "swift-dependencies": "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Expression/In.swiftdeps"
+  },
+  "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/Perfect-CRUD/Sources/PerfectCRUD/Expression/InInts.swift": {
+    "dependencies": "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Expression/InInts.d",
+    "object": "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Expression/InInts.swift.o",
+    "swiftmodule": "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Expression/InInts~partial.swiftmodule",
+    "swift-dependencies": "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Expression/InInts.swiftdeps"
+  },
+  "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/Perfect-CRUD/Sources/PerfectCRUD/Expression/Like.swift": {
+    "dependencies": "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Expression/Like.d",
+    "object": "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Expression/Like.swift.o",
+    "swiftmodule": "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Expression/Like~partial.swiftmodule",
+    "swift-dependencies": "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Expression/Like.swiftdeps"
+  },
+  "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/Perfect-CRUD/Sources/PerfectCRUD/Expression/Logical.swift": {
+    "dependencies": "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Expression/Logical.d",
+    "object": "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Expression/Logical.swift.o",
+    "swiftmodule": "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Expression/Logical~partial.swiftmodule",
+    "swift-dependencies": "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Expression/Logical.swiftdeps"
+  },
+  "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/Perfect-CRUD/Sources/PerfectCRUD/Insert.swift": {
+    "dependencies": "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Insert.d",
+    "object": "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Insert.swift.o",
+    "swiftmodule": "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Insert~partial.swiftmodule",
+    "swift-dependencies": "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Insert.swiftdeps"
+  },
+  "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/Perfect-CRUD/Sources/PerfectCRUD/Join.swift": {
+    "dependencies": "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Join.d",
+    "object": "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Join.swift.o",
+    "swiftmodule": "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Join~partial.swiftmodule",
+    "swift-dependencies": "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Join.swiftdeps"
+  },
+  "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/Perfect-CRUD/Sources/PerfectCRUD/Logging.swift": {
+    "dependencies": "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Logging.d",
+    "object": "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Logging.swift.o",
+    "swiftmodule": "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Logging~partial.swiftmodule",
+    "swift-dependencies": "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Logging.swiftdeps"
+  },
+  "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/Perfect-CRUD/Sources/PerfectCRUD/PerfectCRUD.swift": {
+    "dependencies": "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/PerfectCRUD.d",
+    "object": "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/PerfectCRUD.swift.o",
+    "swiftmodule": "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/PerfectCRUD~partial.swiftmodule",
+    "swift-dependencies": "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/PerfectCRUD.swiftdeps"
+  },
+  "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/Perfect-CRUD/Sources/PerfectCRUD/Select.swift": {
+    "dependencies": "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Select.d",
+    "object": "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Select.swift.o",
+    "swiftmodule": "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Select~partial.swiftmodule",
+    "swift-dependencies": "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Select.swiftdeps"
+  },
+  "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/Perfect-CRUD/Sources/PerfectCRUD/Table.swift": {
+    "dependencies": "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Table.d",
+    "object": "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Table.swift.o",
+    "swiftmodule": "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Table~partial.swiftmodule",
+    "swift-dependencies": "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Table.swiftdeps"
+  },
+  "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/Perfect-CRUD/Sources/PerfectCRUD/Update.swift": {
+    "dependencies": "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Update.d",
+    "object": "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Update.swift.o",
+    "swiftmodule": "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Update~partial.swiftmodule",
+    "swift-dependencies": "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Update.swiftdeps"
+  },
+  "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/Perfect-CRUD/Sources/PerfectCRUD/Where.swift": {
+    "dependencies": "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Where.d",
+    "object": "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Where.swift.o",
+    "swiftmodule": "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Where~partial.swiftmodule",
+    "swift-dependencies": "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/x86_64-apple-macosx/debug/PerfectCRUD.build/Where.swiftdeps"
+  }
+}

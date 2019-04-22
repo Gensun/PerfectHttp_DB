@@ -1,0 +1,13 @@
+version: "Apple Swift version 5.0.1 (swiftlang-1001.0.82.4 clang-1001.0.46.5)"
+options: "b5b0ed03b7878a91dde0dbfb07d32d1b"
+build_time: [1555560697, 777164000]
+inputs:
+  "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/PerfectLib/Sources/PerfectLib/Bytes.swift": [1555560693, 186338724]
+  "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/PerfectLib/Sources/PerfectLib/Dir.swift": [1555560693, 186491597]
+  "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/PerfectLib/Sources/PerfectLib/File.swift": [1555560693, 186700852]
+  "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/PerfectLib/Sources/PerfectLib/JSONConvertible.swift": [1555560693, 186965914]
+  "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/PerfectLib/Sources/PerfectLib/Log.swift": [1555560693, 187178326]
+  "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/PerfectLib/Sources/PerfectLib/PerfectError.swift": [1555560693, 187448764]
+  "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/PerfectLib/Sources/PerfectLib/PerfectServer.swift": [1555560693, 187616706]
+  "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/PerfectLib/Sources/PerfectLib/SysProcess.swift": [1555560693, 187790096]
+  "/Users/admin/Desktop/swift server/RUNING/Client/Server/.build/checkouts/PerfectLib/Sources/PerfectLib/Utilities.swift": [1555560693, 187994522]

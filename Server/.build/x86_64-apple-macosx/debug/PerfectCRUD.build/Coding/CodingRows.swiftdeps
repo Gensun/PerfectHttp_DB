@@ -1,0 +1,353 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "CRUDRowDecoder"
+- "PivotKey"
+- "CRUDPivotRowDecoder"
+- "CRUDPivotRowReader"
+provides-nominal:
+- "11PerfectCRUD14CRUDRowDecoderC"
+- "11PerfectCRUD8PivotKeyV"
+- "11PerfectCRUD19CRUDPivotRowDecoderC"
+- "11PerfectCRUD18CRUDPivotRowReaderC"
+provides-member:
+- ["11PerfectCRUD14CRUDRowDecoderC", ""]
+- ["11PerfectCRUD8PivotKeyV", ""]
+- ["11PerfectCRUD19CRUDPivotRowDecoderC", ""]
+- ["11PerfectCRUD18CRUDPivotRowReaderC", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "=="
+- "AssignmentPrecedence"
+- "Bool"
+- !private "CRUDDecoderError"
+- "CRUDPivotRowDecoder"
+- "CRUDPivotRowReader"
+- "CRUDRowDecoder"
+- !private "CRUDSQLExeError"
+- "Codable"
+- "CodingKey"
+- "CodingUserInfoKey"
+- !private "ColumnKey"
+- !private "Data"
+- !private "Date"
+- "Decodable"
+- "Decoder"
+- "Double"
+- "Float"
+- "Int"
+- "Int16"
+- "Int32"
+- "Int64"
+- "Int8"
+- "KeyedDecodingContainer"
+- "KeyedDecodingContainerProtocol"
+- "PivotKey"
+- "SQLExeDelegate"
+- "SingleValueDecodingContainer"
+- "String"
+- "UInt"
+- "UInt16"
+- "UInt32"
+- "UInt64"
+- "UInt8"
+- !private "UUID"
+- "UnkeyedDecodingContainer"
+- !private "joinPivotIdColumnName"
+- !private "~="
+depends-member:
+- !private ["Sa", "append"]
+- !private ["SK", "append"]
+- !private ["11PerfectCRUD16CRUDDecoderErrorV", "deinit"]
+- !private ["11PerfectCRUD16CRUDDecoderErrorV", "init"]
+- !private ["11PerfectCRUD19CRUDPivotRowDecoderC", "Bool"]
+- !private ["11PerfectCRUD19CRUDPivotRowDecoderC", "CRUDDecoderError"]
+- !private ["11PerfectCRUD19CRUDPivotRowDecoderC", "CRUDPivotRowReader"]
+- !private ["11PerfectCRUD19CRUDPivotRowDecoderC", "CRUDSQLExeError"]
+- ["11PerfectCRUD19CRUDPivotRowDecoderC", "Codable"]
+- ["11PerfectCRUD19CRUDPivotRowDecoderC", "CodingKey"]
+- ["11PerfectCRUD19CRUDPivotRowDecoderC", "CodingUserInfoKey"]
+- !private ["11PerfectCRUD19CRUDPivotRowDecoderC", "ColumnKey"]
+- !private ["11PerfectCRUD19CRUDPivotRowDecoderC", "Data"]
+- !private ["11PerfectCRUD19CRUDPivotRowDecoderC", "Date"]
+- !private ["11PerfectCRUD19CRUDPivotRowDecoderC", "Double"]
+- !private ["11PerfectCRUD19CRUDPivotRowDecoderC", "Float"]
+- !private ["11PerfectCRUD19CRUDPivotRowDecoderC", "Int"]
+- !private ["11PerfectCRUD19CRUDPivotRowDecoderC", "Int16"]
+- !private ["11PerfectCRUD19CRUDPivotRowDecoderC", "Int32"]
+- !private ["11PerfectCRUD19CRUDPivotRowDecoderC", "Int64"]
+- !private ["11PerfectCRUD19CRUDPivotRowDecoderC", "Int8"]
+- ["11PerfectCRUD19CRUDPivotRowDecoderC", "Key"]
+- ["11PerfectCRUD19CRUDPivotRowDecoderC", "KeyedDecodingContainer"]
+- ["11PerfectCRUD19CRUDPivotRowDecoderC", "SQLExeDelegate"]
+- ["11PerfectCRUD19CRUDPivotRowDecoderC", "SingleValueDecodingContainer"]
+- !private ["11PerfectCRUD19CRUDPivotRowDecoderC", "String"]
+- !private ["11PerfectCRUD19CRUDPivotRowDecoderC", "UInt"]
+- !private ["11PerfectCRUD19CRUDPivotRowDecoderC", "UInt16"]
+- !private ["11PerfectCRUD19CRUDPivotRowDecoderC", "UInt32"]
+- !private ["11PerfectCRUD19CRUDPivotRowDecoderC", "UInt64"]
+- !private ["11PerfectCRUD19CRUDPivotRowDecoderC", "UInt8"]
+- !private ["11PerfectCRUD19CRUDPivotRowDecoderC", "UUID"]
+- ["11PerfectCRUD19CRUDPivotRowDecoderC", "UnkeyedDecodingContainer"]
+- ["11PerfectCRUD19CRUDPivotRowDecoderC", "codingPath"]
+- ["11PerfectCRUD19CRUDPivotRowDecoderC", "container"]
+- ["11PerfectCRUD19CRUDPivotRowDecoderC", "deinit"]
+- ["11PerfectCRUD19CRUDPivotRowDecoderC", "delegate"]
+- ["11PerfectCRUD19CRUDPivotRowDecoderC", "init"]
+- !private ["11PerfectCRUD19CRUDPivotRowDecoderC", "joinPivotIdColumnName"]
+- ["11PerfectCRUD19CRUDPivotRowDecoderC", "orderedKeys"]
+- ["11PerfectCRUD19CRUDPivotRowDecoderC", "pivotOnType"]
+- ["11PerfectCRUD19CRUDPivotRowDecoderC", "singleValueContainer"]
+- ["11PerfectCRUD19CRUDPivotRowDecoderC", "unkeyedContainer"]
+- ["11PerfectCRUD19CRUDPivotRowDecoderC", "userInfo"]
+- ["11PerfectCRUD18CRUDPivotRowReaderC", "Bool"]
+- ["11PerfectCRUD18CRUDPivotRowReaderC", "CodingKey"]
+- ["11PerfectCRUD18CRUDPivotRowReaderC", "Decodable"]
+- ["11PerfectCRUD18CRUDPivotRowReaderC", "Decoder"]
+- ["11PerfectCRUD18CRUDPivotRowReaderC", "Double"]
+- ["11PerfectCRUD18CRUDPivotRowReaderC", "Float"]
+- ["11PerfectCRUD18CRUDPivotRowReaderC", "Int"]
+- ["11PerfectCRUD18CRUDPivotRowReaderC", "Int16"]
+- ["11PerfectCRUD18CRUDPivotRowReaderC", "Int32"]
+- ["11PerfectCRUD18CRUDPivotRowReaderC", "Int64"]
+- ["11PerfectCRUD18CRUDPivotRowReaderC", "Int8"]
+- ["11PerfectCRUD18CRUDPivotRowReaderC", "Key"]
+- ["11PerfectCRUD18CRUDPivotRowReaderC", "KeyedDecodingContainer"]
+- ["11PerfectCRUD18CRUDPivotRowReaderC", "String"]
+- ["11PerfectCRUD18CRUDPivotRowReaderC", "UInt"]
+- ["11PerfectCRUD18CRUDPivotRowReaderC", "UInt16"]
+- ["11PerfectCRUD18CRUDPivotRowReaderC", "UInt32"]
+- ["11PerfectCRUD18CRUDPivotRowReaderC", "UInt64"]
+- ["11PerfectCRUD18CRUDPivotRowReaderC", "UInt8"]
+- ["11PerfectCRUD18CRUDPivotRowReaderC", "UnkeyedDecodingContainer"]
+- ["11PerfectCRUD18CRUDPivotRowReaderC", "allKeys"]
+- ["11PerfectCRUD18CRUDPivotRowReaderC", "codingPath"]
+- ["11PerfectCRUD18CRUDPivotRowReaderC", "contains"]
+- ["11PerfectCRUD18CRUDPivotRowReaderC", "decode"]
+- ["11PerfectCRUD18CRUDPivotRowReaderC", "decodeIfPresent"]
+- ["11PerfectCRUD18CRUDPivotRowReaderC", "decodeNil"]
+- ["11PerfectCRUD18CRUDPivotRowReaderC", "deinit"]
+- ["11PerfectCRUD18CRUDPivotRowReaderC", "init"]
+- !private ["11PerfectCRUD18CRUDPivotRowReaderC", "k"]
+- ["11PerfectCRUD18CRUDPivotRowReaderC", "nestedContainer"]
+- ["11PerfectCRUD18CRUDPivotRowReaderC", "nestedUnkeyedContainer"]
+- ["11PerfectCRUD18CRUDPivotRowReaderC", "subReader"]
+- ["11PerfectCRUD18CRUDPivotRowReaderC", "superDecoder"]
+- !private ["11PerfectCRUD14CRUDRowDecoderC", "CRUDDecoderError"]
+- ["11PerfectCRUD14CRUDRowDecoderC", "CodingKey"]
+- ["11PerfectCRUD14CRUDRowDecoderC", "CodingUserInfoKey"]
+- ["11PerfectCRUD14CRUDRowDecoderC", "Key"]
+- ["11PerfectCRUD14CRUDRowDecoderC", "KeyedDecodingContainer"]
+- ["11PerfectCRUD14CRUDRowDecoderC", "SQLExeDelegate"]
+- ["11PerfectCRUD14CRUDRowDecoderC", "SingleValueDecodingContainer"]
+- ["11PerfectCRUD14CRUDRowDecoderC", "UnkeyedDecodingContainer"]
+- ["11PerfectCRUD14CRUDRowDecoderC", "codingPath"]
+- ["11PerfectCRUD14CRUDRowDecoderC", "container"]
+- ["11PerfectCRUD14CRUDRowDecoderC", "deinit"]
+- ["11PerfectCRUD14CRUDRowDecoderC", "delegate"]
+- ["11PerfectCRUD14CRUDRowDecoderC", "init"]
+- ["11PerfectCRUD14CRUDRowDecoderC", "singleValueContainer"]
+- ["11PerfectCRUD14CRUDRowDecoderC", "unkeyedContainer"]
+- ["11PerfectCRUD14CRUDRowDecoderC", "userInfo"]
+- !private ["11PerfectCRUD15CRUDSQLExeErrorV", "deinit"]
+- !private ["11PerfectCRUD15CRUDSQLExeErrorV", "init"]
+- !private ["s7CVarArgP", "append"]
+- ["s9CodingKeyP", "=="]
+- !private ["s9CodingKeyP", ""]
+- ["s9CodingKeyP", "_rawHashValue"]
+- ["s9CodingKeyP", "debugDescription"]
+- ["s9CodingKeyP", "description"]
+- ["s9CodingKeyP", "hash"]
+- ["s9CodingKeyP", "hashValue"]
+- ["s9CodingKeyP", "init"]
+- ["s9CodingKeyP", "intValue"]
+- ["s9CodingKeyP", "stringValue"]
+- !private ["Sl", "append"]
+- ["11PerfectCRUD9ColumnKeyV", "deinit"]
+- !private ["11PerfectCRUD9ColumnKeyV", "init"]
+- !private ["10Foundation15ContiguousBytesP", "append"]
+- ["s28CustomDebugStringConvertibleP", "=="]
+- !private ["s28CustomDebugStringConvertibleP", ""]
+- ["s28CustomDebugStringConvertibleP", "_rawHashValue"]
+- !private ["s28CustomDebugStringConvertibleP", "append"]
+- ["s28CustomDebugStringConvertibleP", "debugDescription"]
+- ["s28CustomDebugStringConvertibleP", "description"]
+- ["s28CustomDebugStringConvertibleP", "hash"]
+- ["s28CustomDebugStringConvertibleP", "hashValue"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- ["s28CustomDebugStringConvertibleP", "intValue"]
+- ["s28CustomDebugStringConvertibleP", "stringValue"]
+- !private ["s17CustomReflectableP", "append"]
+- ["s23CustomStringConvertibleP", "=="]
+- !private ["s23CustomStringConvertibleP", ""]
+- ["s23CustomStringConvertibleP", "_rawHashValue"]
+- !private ["s23CustomStringConvertibleP", "append"]
+- !private ["s23CustomStringConvertibleP", "appendInterpolation"]
+- !private ["s23CustomStringConvertibleP", "appendLiteral"]
+- ["s23CustomStringConvertibleP", "debugDescription"]
+- ["s23CustomStringConvertibleP", "description"]
+- ["s23CustomStringConvertibleP", "hash"]
+- ["s23CustomStringConvertibleP", "hashValue"]
+- ["s23CustomStringConvertibleP", "init"]
+- ["s23CustomStringConvertibleP", "intValue"]
+- ["s23CustomStringConvertibleP", "stringValue"]
+- !private ["10Foundation12DataProtocolP", "append"]
+- ["Se", ""]
+- !private ["Se", "_crud_pivot_id_"]
+- !private ["Se", "append"]
+- ["Se", "encode"]
+- ["Se", "init"]
+- !private ["s7DecoderP", "CRUDDecoderError"]
+- !private ["s7DecoderP", "CRUDPivotRowReader"]
+- !private ["s7DecoderP", "CRUDSQLExeError"]
+- !private ["s7DecoderP", "ColumnKey"]
+- !private ["s7DecoderP", "KeyedDecodingContainer"]
+- ["s7DecoderP", ""]
+- ["s7DecoderP", "codingPath"]
+- ["s7DecoderP", "container"]
+- !private ["s7DecoderP", "delegate"]
+- !private ["s7DecoderP", "joinPivotIdColumnName"]
+- !private ["s7DecoderP", "orderedKeys"]
+- !private ["s7DecoderP", "pivotOnType"]
+- ["s7DecoderP", "singleValueContainer"]
+- ["s7DecoderP", "unkeyedContainer"]
+- ["s7DecoderP", "userInfo"]
+- !private ["s26DefaultStringInterpolationV", "appendInterpolation"]
+- !private ["s26DefaultStringInterpolationV", "appendLiteral"]
+- ["SE", ""]
+- !private ["SE", "_crud_pivot_id_"]
+- !private ["SE", "append"]
+- ["SE", "encode"]
+- ["SE", "init"]
+- !private ["s7EncoderP", "container"]
+- ["SQ", "=="]
+- !private ["SQ", ""]
+- ["SQ", "_rawHashValue"]
+- !private ["SQ", "append"]
+- ["SQ", "debugDescription"]
+- ["SQ", "description"]
+- ["SQ", "hash"]
+- ["SQ", "hashValue"]
+- ["SQ", "init"]
+- ["SQ", "intValue"]
+- ["SQ", "stringValue"]
+- !private ["s5ErrorP", "init"]
+- !private ["s25ExpressibleByArrayLiteralP", "append"]
+- ["SH", "=="]
+- !private ["SH", ""]
+- ["SH", "_rawHashValue"]
+- !private ["SH", "append"]
+- ["SH", "debugDescription"]
+- ["SH", "description"]
+- ["SH", "hash"]
+- ["SH", "hashValue"]
+- ["SH", "init"]
+- ["SH", "intValue"]
+- ["SH", "stringValue"]
+- !private ["s6HasherV", "combine"]
+- !private ["s22KeyedDecodingContainerV", "contains"]
+- !private ["s22KeyedDecodingContainerV", "decode"]
+- !private ["s22KeyedDecodingContainerV", "decodeNil"]
+- !private ["s22KeyedDecodingContainerV", "init"]
+- !private ["s22KeyedDecodingContainerV", "nestedContainer"]
+- !private ["s22KeyedDecodingContainerV", "nestedUnkeyedContainer"]
+- !private ["s22KeyedDecodingContainerV", "superDecoder"]
+- ["s30KeyedDecodingContainerProtocolP", "Key"]
+- ["s30KeyedDecodingContainerProtocolP", ""]
+- ["s30KeyedDecodingContainerProtocolP", "allKeys"]
+- ["s30KeyedDecodingContainerProtocolP", "codingPath"]
+- ["s30KeyedDecodingContainerProtocolP", "contains"]
+- ["s30KeyedDecodingContainerProtocolP", "decode"]
+- ["s30KeyedDecodingContainerProtocolP", "decodeIfPresent"]
+- ["s30KeyedDecodingContainerProtocolP", "decodeNil"]
+- !private ["s30KeyedDecodingContainerProtocolP", "init"]
+- !private ["s30KeyedDecodingContainerProtocolP", "k"]
+- ["s30KeyedDecodingContainerProtocolP", "nestedContainer"]
+- ["s30KeyedDecodingContainerProtocolP", "nestedUnkeyedContainer"]
+- !private ["s30KeyedDecodingContainerProtocolP", "subReader"]
+- ["s30KeyedDecodingContainerProtocolP", "superDecoder"]
+- !private ["s22KeyedEncodingContainerV", "encode"]
+- !private ["s30KeyedEncodingContainerProtocolP", "encode"]
+- !private ["SM", "append"]
+- !private ["10Foundation19MutableDataProtocolP", "append"]
+- ["11PerfectCRUD8PivotKeyV", "_crud_pivot_id_"]
+- ["11PerfectCRUD8PivotKeyV", "deinit"]
+- ["11PerfectCRUD8PivotKeyV", "encode"]
+- ["11PerfectCRUD8PivotKeyV", "init"]
+- !private ["Sk", "append"]
+- !private ["Sm", "append"]
+- !private ["11PerfectCRUD14SQLExeDelegateP", "next"]
+- !private ["ST", "append"]
+- !private ["s27StringInterpolationProtocolP", "appendInterpolation"]
+- !private ["s27StringInterpolationProtocolP", "appendLiteral"]
+- !private ["s16TextOutputStreamP", "appendInterpolation"]
+- !private ["s16TextOutputStreamP", "appendLiteral"]
+- !private ["s14_ArrayProtocolP", "append"]
+- !private ["s24_DestructorSafeContainerP", "append"]
+- !private ["s19_HasContiguousBytesP", "append"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "append"]
+- !private ["s21_ObjectiveCBridgeableP", "append"]
+depends-nominal:
+- !private "Sa"
+- !private "SK"
+- !private "11PerfectCRUD16CRUDDecoderErrorV"
+- "11PerfectCRUD19CRUDPivotRowDecoderC"
+- "11PerfectCRUD18CRUDPivotRowReaderC"
+- "11PerfectCRUD14CRUDRowDecoderC"
+- !private "11PerfectCRUD15CRUDSQLExeErrorV"
+- !private "s7CVarArgP"
+- "s9CodingKeyP"
+- !private "Sl"
+- "11PerfectCRUD9ColumnKeyV"
+- !private "10Foundation15ContiguousBytesP"
+- "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "10Foundation12DataProtocolP"
+- "Se"
+- "s7DecoderP"
+- !private "s26DefaultStringInterpolationV"
+- "SE"
+- !private "s7EncoderP"
+- "SQ"
+- !private "s5ErrorP"
+- !private "s25ExpressibleByArrayLiteralP"
+- "SH"
+- !private "s6HasherV"
+- !private "s22KeyedDecodingContainerV"
+- "s30KeyedDecodingContainerProtocolP"
+- !private "s22KeyedEncodingContainerV"
+- !private "s30KeyedEncodingContainerProtocolP"
+- !private "SM"
+- !private "10Foundation19MutableDataProtocolP"
+- "11PerfectCRUD8PivotKeyV"
+- !private "Sk"
+- !private "Sm"
+- !private "11PerfectCRUD14SQLExeDelegateP"
+- !private "ST"
+- !private "s27StringInterpolationProtocolP"
+- !private "s16TextOutputStreamP"
+- !private "s14_ArrayProtocolP"
+- !private "s24_DestructorSafeContainerP"
+- !private "s19_HasContiguousBytesP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- !private "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "347a36eaeab879872fce7dc05268a713"

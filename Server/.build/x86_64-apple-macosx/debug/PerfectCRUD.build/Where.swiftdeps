@@ -1,0 +1,135 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "Where"
+provides-nominal:
+- "11PerfectCRUD5WhereV"
+provides-member:
+- ["11PerfectCRUD5WhereV", ""]
+- ["11PerfectCRUD5WhereV", "delete"]
+- ["11PerfectCRUD5WhereV", "update"]
+- ["11PerfectCRUD5WhereV", "update"]
+- ["11PerfectCRUD5WhereV", "update"]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "+"
+- "AssignmentPrecedence"
+- "Codable"
+- "Delete"
+- "Encodable"
+- "Expression"
+- "FromTableProtocol"
+- "KeyPath"
+- "PartialKeyPath"
+- "SQLGenState"
+- "Selectable"
+- "TableProtocol"
+- "Update"
+- "Where"
+depends-member:
+- !private ["11PerfectCRUD15CommandProtocolP", "init"]
+- !private ["11PerfectCRUD15CommandProtocolP", "init"]
+- !private ["11PerfectCRUD6DeleteV", "init"]
+- !private ["11PerfectCRUD6DeleteV", "init"]
+- ["11PerfectCRUD17FromTableProtocolP", "Form"]
+- ["11PerfectCRUD17FromTableProtocolP", "FromTableType"]
+- ["11PerfectCRUD17FromTableProtocolP", "OverAllForm"]
+- ["11PerfectCRUD17FromTableProtocolP", ""]
+- ["11PerfectCRUD17FromTableProtocolP", "count"]
+- ["11PerfectCRUD17FromTableProtocolP", "databaseConfiguration"]
+- !private ["11PerfectCRUD17FromTableProtocolP", "expression"]
+- ["11PerfectCRUD17FromTableProtocolP", "fromTable"]
+- !private ["11PerfectCRUD17FromTableProtocolP", "init"]
+- !private ["11PerfectCRUD17FromTableProtocolP", "init"]
+- ["11PerfectCRUD17FromTableProtocolP", "select"]
+- ["11PerfectCRUD17FromTableProtocolP", "setSQL"]
+- ["11PerfectCRUD17FromTableProtocolP", "setState"]
+- ["11PerfectCRUD9QueryItemP", "Form"]
+- ["11PerfectCRUD9QueryItemP", "FromTableType"]
+- ["11PerfectCRUD9QueryItemP", "OverAllForm"]
+- ["11PerfectCRUD9QueryItemP", ""]
+- ["11PerfectCRUD9QueryItemP", "count"]
+- ["11PerfectCRUD9QueryItemP", "databaseConfiguration"]
+- !private ["11PerfectCRUD9QueryItemP", "expression"]
+- ["11PerfectCRUD9QueryItemP", "fromTable"]
+- !private ["11PerfectCRUD9QueryItemP", "init"]
+- !private ["11PerfectCRUD9QueryItemP", "init"]
+- ["11PerfectCRUD9QueryItemP", "select"]
+- ["11PerfectCRUD9QueryItemP", "setSQL"]
+- ["11PerfectCRUD9QueryItemP", "setState"]
+- !private ["11PerfectCRUD11SQLGenStateV", "whereExpr"]
+- ["11PerfectCRUD10SelectableP", "Form"]
+- ["11PerfectCRUD10SelectableP", "FromTableType"]
+- ["11PerfectCRUD10SelectableP", "OverAllForm"]
+- ["11PerfectCRUD10SelectableP", ""]
+- ["11PerfectCRUD10SelectableP", "count"]
+- ["11PerfectCRUD10SelectableP", "databaseConfiguration"]
+- !private ["11PerfectCRUD10SelectableP", "expression"]
+- ["11PerfectCRUD10SelectableP", "fromTable"]
+- ["11PerfectCRUD10SelectableP", "select"]
+- ["11PerfectCRUD10SelectableP", "setSQL"]
+- ["11PerfectCRUD10SelectableP", "setState"]
+- ["11PerfectCRUD13TableProtocolP", "Form"]
+- ["11PerfectCRUD13TableProtocolP", "FromTableType"]
+- ["11PerfectCRUD13TableProtocolP", "OverAllForm"]
+- ["11PerfectCRUD13TableProtocolP", ""]
+- ["11PerfectCRUD13TableProtocolP", "count"]
+- ["11PerfectCRUD13TableProtocolP", "databaseConfiguration"]
+- !private ["11PerfectCRUD13TableProtocolP", "expression"]
+- ["11PerfectCRUD13TableProtocolP", "fromTable"]
+- ["11PerfectCRUD13TableProtocolP", "select"]
+- ["11PerfectCRUD13TableProtocolP", "setSQL"]
+- ["11PerfectCRUD13TableProtocolP", "setState"]
+- !private ["11PerfectCRUD6UpdateV", "init"]
+- !private ["11PerfectCRUD6UpdateV", "init"]
+- ["11PerfectCRUD5WhereV", "Delete"]
+- ["11PerfectCRUD5WhereV", "Encodable"]
+- ["11PerfectCRUD5WhereV", "Expression"]
+- ["11PerfectCRUD5WhereV", "Form"]
+- ["11PerfectCRUD5WhereV", "FromTableType"]
+- ["11PerfectCRUD5WhereV", "KeyPath"]
+- ["11PerfectCRUD5WhereV", "OverAllForm"]
+- ["11PerfectCRUD5WhereV", "PartialKeyPath"]
+- ["11PerfectCRUD5WhereV", "SQLGenState"]
+- ["11PerfectCRUD5WhereV", "Update"]
+- ["11PerfectCRUD5WhereV", "Where"]
+- ["11PerfectCRUD5WhereV", "count"]
+- ["11PerfectCRUD5WhereV", "databaseConfiguration"]
+- ["11PerfectCRUD5WhereV", "deinit"]
+- ["11PerfectCRUD5WhereV", "delete"]
+- ["11PerfectCRUD5WhereV", "expression"]
+- ["11PerfectCRUD5WhereV", "fromTable"]
+- ["11PerfectCRUD5WhereV", "init"]
+- ["11PerfectCRUD5WhereV", "select"]
+- ["11PerfectCRUD5WhereV", "setSQL"]
+- ["11PerfectCRUD5WhereV", "setState"]
+- ["11PerfectCRUD5WhereV", "update"]
+depends-nominal:
+- !private "11PerfectCRUD15CommandProtocolP"
+- !private "11PerfectCRUD6DeleteV"
+- "11PerfectCRUD17FromTableProtocolP"
+- "11PerfectCRUD9QueryItemP"
+- !private "11PerfectCRUD11SQLGenStateV"
+- "11PerfectCRUD10SelectableP"
+- "11PerfectCRUD13TableProtocolP"
+- !private "11PerfectCRUD6UpdateV"
+- "11PerfectCRUD5WhereV"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "678ca349da0e333a0830569e1f81c124"
